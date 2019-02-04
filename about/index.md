@@ -10,7 +10,7 @@ Table of Contents     [Biography](#biography)     [Highlights](#highlights
 
 ## <a name="biography" id="biography"></a>Biography
 
-I am a PhD Student at [**Brandeis** University](http://www.brandeis.edu/), Boston. My research focus is in application of [**deep learning** in problems of vision and language]({{site.baseurl}}/notes/research/). I have interned at **Microsoft** Research (Redmond), **Qualcomm** Research (San Diego) and **Philips** Research (Cambridge) during the grad school summers. Before joining grad school I was a Senior Systems Engineer at [Infosys Limited](https://www.infosys.com/). I am from Kathmandu, [**Nepal**](https://media.gadventures.com/media-server/image_library/Nepal-Himalaya-Mountains-Annapurna-Pokhara-Prayer-Flags-IS-027332084-Lg-RGB.jpg). My [name means "Sun"]({{site.baseurl}}/notes/name/), and it is pronounced as "aaa--Dee--ti--ya". Other than research, I love [rock climbing]({{site.baseurl}}/notes/climbing/), [running](https://runkeeper.com/user/kvpaxos/profile), [playing chess]({{site.baseurl}}/notes/chess/) and listening to classical Indian songs.
+I am a MS Student at [**IIIT-Hyderabad**](http://www.iiit.ac.in), India. My research focus is in application of [**deep learning** in problems of vision and language]({{site.baseurl}}/notes/research/).
 
 ## Highlights
 
@@ -54,36 +54,22 @@ I am a PhD Student at [**Brandeis** University](http://www.brandeis.edu/), Bosto
 
 ### 2018
 
-* Our latest paper, [RePr: Improved Training of Convolutional Filters](https://arxiv.org/pdf/1811.07275.pdf), shows effective way to train Convolutonal Neural Networks.
-* I am currently doing research internship at **Microsoft Research (AI+R)**.
-* I will be attending **Deep/Reinforcement Learning Summer** [School](https://dlrlsummerschool.ca/) at [Vector Institute (CIFAR/MILA)](https://vectorinstitute.ai/)
-* Paper on **pixel deflection** accepted to CVPR 2018 (Spotlight). [\[4-min Video\]](https://www.youtube.com/watch?v=VgjOXJ9QKWo) [\[PDF\]](https://arxiv.org/pdf/1801.08926.pdf "Deflecting Adversarial Attacks with Pixel Deflection") [\[POSTER\]](https://docs.google.com/viewer?url=https://github.com/iamaaditya/research-papers-slides-posters/raw/master/cvpr_2018/Poster_Pixel_Deflection.pdf) [\[CODE\]](https://github.com/iamaaditya/pixel-deflection)
-* I gave an invited talk on Deep Learning at Connecticut College. [\[Slides\]](https://docs.google.com/presentation/d/1ci1qJVz-vJd02wz1IQNhilBemvc876rKIzwGIC9ZkG0)
-* Extended abstract on **pixel deflection** and **robust activation maps** accepted to [CV-COPS 2018](https://vision.soic.indiana.edu/bright-and-dark-workshop-2018/) [\[PDF\]](https://vision.soic.indiana.edu/bright-and-dark-workshop-2018/cvcops_2018_extended_abstracts/robust-discriminative-localization.pdf) [\[POSTER\]](https://docs.google.com/viewer?url=https://github.com/iamaaditya/research-papers-slides-posters/raw/master/cvcops_2018/Poster_Robust_CAM.pdf) [\[CODE\]](https://github.com/iamaaditya/robust-activation-maps)
-* Paper on protecting jpeg images against **adversarial attacks** accepted to DCC (Oral). [\[PDF\]](https://arxiv.org/pdf/1803.00940.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1sCfezODra1RnJICheDL_PDFKVGXcqUTDeQChaxyvNts)
+* Hi!
 
 ### 2017
 
-* Received **Roberto Padovani Scholarship** (Qualcomm).
-* Interned at **Qualcomm Research** during the summer.
-* Received **Outstanding Teaching Fellow Award**, Brandeis.
-* Gave five **lecture series on Deep Learning**, Convolutional Neural Networks, Recurrent Neural Networks, Object localization/detection and Memory Networks. [\[Slides\]](https://iamaaditya.github.io/notes/CS175/)
-* Paper on **image compression using CNN** accepted to Data Compression Conference. [\[Code\]](https://github.com/iamaaditya/image-compression-cnn) [\[PDF\]](https://arxiv.org/pdf/1612.08712v1.pdf)
-* Paper on **Condensed Memory Networks** accepted to AAAI 2017. [\[PDF\]](https://arxiv.org/pdf/1612.01848v1.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1NSGEBYJmYEa5zsPJBocYcyRVZLKG0y274Wib_BlRX-U/edit?usp=sharing)  [\[Poster\]](https://docs.google.com/viewer?url=https://github.com/iamaaditya/research-papers-slides-posters/raw/master/aaai_2017/aaai_poster.pdf)
+* Hi!
+
 
 ### 2016
 
-* Paper on **Neural Paraphrase Generation** accepted to COLING 2016. [\[PDF\]](https://arxiv.org/pdf/1610.03098v3.pdf) [\[Poster\]](https://www.dropbox.com/s/ju09291jukvtg50/coling_poster.pdf?dl=0)
-* Won **Honrable Mention Prize** for Visual Question Answering Challenge. [\[Video\]](https://www.youtube.com/watch?v=Fc2v_-VTRSY&index=14&list=PL_bDvITUYucC0r43EXIHkQE_fHVXlmboH) [\[Slides\]](https://docs.google.com/presentation/d/1EvYlvwXa7mjiQ2YjFmFs9LigOI8XFiYcd4jOqnprZyQ/edit?usp=sharing) [\[Poster\]](https://docs.google.com/presentation/d/1S5eVgDddkG4HaMLDBV5KaaDwPO_rDgMyNzOfq4LiJS0/edit?usp=sharing)
-* Accepted to **Deep Learning Summer School** at University of Montrel. \[25% acceptance rate\]
-* Interned at AI Labs at **Philips Research** during the summer.
-* Paper on **'Highway Networks for Visual Question Answering'** accepted for CVPR VQA workshop. [\[PDF\]](https://docs.google.com/viewer?url=https://github.com/iamaaditya/research-papers-slides-posters/raw/master/cvpr_2016/cvpr_paper.pdf)
+* Hi!
 
 ## Research
 
 ---
 
-### - Deflecting Adversarial Attacks with Pixel Deflection
+### - Deep Expander Networks
 
 <center> <img src="https://i.imgur.com/BhxmVwx.png" height="85%" width="85%" /> </center>
 <center> <img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/image_combine.jpg" height="85%" width="85%" /> </center>
@@ -92,52 +78,6 @@ I am a PhD Student at [**Brandeis** University](http://www.brandeis.edu/), Bosto
 * **Our method**: Take a region within an image and swap the pixels  _(we call this Pixel Deflection)_. Since the adversary is relying on very specific activations, changing local pixel arrangement is enough to counteract the adversarial changes. Often it requires some form of denoising for which we found that doing soft shrinkage on wavelet transform works best
 * [\[PDF\]](https://arxiv.org/pdf/1801.08926.pdf "Deflecting Adversarial Attacks with Pixel Deflection") [\[HTML\]](https://www.arxiv-vanity.com/papers/1801.08926/) [\[CODE\]](https://github.com/iamaaditya/pixel-deflection)
 * Blog post describing the project [Demo for Pixel Deflection](https://iamaaditya.github.io/2018/02/demo-for-pixel-deflection/)
-
----
-
-### - Condensed Memory Networks
-
-<center> <img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/cmemnn_for_about.png" height="85%" width="85%"> </center>
-
-* **Problem**: Improve the memory networks for large scale NLP tasks
-* **Our method**: Add an alternate memory state which is condensed with previous hop values exponentially fewer slots.
-* [\[PDF\]](https://arxiv.org/pdf/1612.01848v1.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1NSGEBYJmYEa5zsPJBocYcyRVZLKG0y274Wib_BlRX-U/edit?usp=sharing)
-* Blog post describing the project coming soon.
-
----
-
-### - Semantic image compression using CNN
-
-<center> <img src="https://raw.githubusercontent.com/iamaaditya/image-compression-cnn/master/girl_msroi.png" height="85%" width="85%"> </center>
-
-* **Problem**: Add semantic knowledge to image compression Semantic Image Compression
-* **Our method**: Use CNN to generate a map that covers all the 'semantic objects' and weighs them based on importance. Use variable scaling JPEG to encode the information.
-  For more details :
-* [\[Code\]](https://github.com/iamaaditya/image-compression-cnn) [\[PDF\]](https://arxiv.org/pdf/1612.08712v1.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1Yv9U4KMXh-iZ5WB2pgvyrbCKxnxYskR2lWYJ0j0T_JA/edit?usp=sharing)
-* Supervisor - Prof. [James Storer](http://www.cs.brandeis.edu/~storer/)
-
----
-
-### - Neural Paraphrase generation using Residual Stacked LSTM
-
-<center> <img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/residual_lstm_small.png" height="45%" width="45%"> </center>
-
-* **Problem**: Generate paraphrases using a 'neural' model.
-* **Our method**: We take inspiration from ResNet and apply the same techniques to LSTM. We believe this helpes to maintain the semantics of the paraphrases.
-* Work done during internship at Philips Research.
-* Shown below are samples using our method on three different datasets.
-
-<center> <img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/paraphrase_samples.png" height="85%" width="85%"> </center>
-
----
-
-### - Visual Question Answering
-
-<center> <img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/teaser_small.jpg" height="90%" width="90%" /> </center>
-
-* **Problem**: Given a color image of arbitrary size and question of arbitrary length, come up with the most reasonable answer (ground truth obtained from 10 amazon-turks responses)
-* **Our approach**: Use of Highway networks to attain implicit attention and learn deeper feature representations. [See this]({{site.baseurl}}/research/vqa/)  for more details
-* Supervisor - Prof. [James Storer](http://www.cs.brandeis.edu/~storer/)
 
 ---
 
