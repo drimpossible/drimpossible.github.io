@@ -1,6 +1,6 @@
 ---
-title: Notes
-author: aaditya prakash
+title: Posts
+author: Ameya Prabhu
 layout: page
 dsq_thread_id:
 -
