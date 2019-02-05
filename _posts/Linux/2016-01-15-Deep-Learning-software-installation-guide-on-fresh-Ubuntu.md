@@ -2,7 +2,7 @@
 title: Deep Learning software installation guide on fresh Ubuntu
 author: aaditya prakash
 layout: post
-permalink: "/2016/01/Deep-Learning-software-installation-guide-on-fresh-Ubuntu/"
+permalink: "/blog/Linux/Deep-Learning-software-installation-guide-on-fresh-Ubuntu/"
 categories:
 - computer science
 - math
@@ -53,7 +53,7 @@ Table of Contents
 	* [Customization](#customization)
 
 
-Recently I assembled a machine with 4 GPU (Titan X), a clone of [NVIDIA DevBox](https://developer.nvidia.com/devbox). There are few other blog posts which describe the hardware guide, so I will not go into the same detail. Please refer [this](https://www.facebook.com/notes/chris-lengerich/build-your-own-nvidia-devbox/10152999419281541). 
+Recently I assembled a machine with 4 GPU (Titan X), a clone of [NVIDIA DevBox](https://developer.nvidia.com/devbox). There are few other blog posts which describe the hardware guide, so I will not go into the same detail. Please refer [this](https://www.facebook.com/notes/chris-lengerich/build-your-own-nvidia-devbox/10152999419281541).
 The actual list of parts I bought can be found [ at PCPart Picker](https://pcpartpicker.com/user/iamaaditya/saved/LPmZxr).
 
 However this blog post is about the software guide. Although, most of the researchers or grad students like me will have their own custom requirement I thought I should share my software installation guide, for someone who might be new and would benefit from some of these. I have had to do this process couple of times now, and I have learned from my mistakes.
@@ -84,14 +84,14 @@ NOTE 4: **Anaconda** : Why not Anaconda ? I have done some previous installation
 
 ## Mounting
   * `df -aTh                         `   # shows list of all mounts
-  * `sudo mount /dev/md0 /media/hdd/ `   # (Manual) mount existing 
+  * `sudo mount /dev/md0 /media/hdd/ `   # (Manual) mount existing
   * `blkid                           `   # shows uuid for drives to add to fstab
   Add the following line to /etc/fstab
     # the RAID 1 mount of two hdd
     UUID=06ad59d9-3176-4c16-95e9-77356cc572d7       /media/hdd      ext2    defaults    0    1
   * `sudo mount -a                   `   # (Permanent) mount using fstab
 
-# Install Essentials, Extras, Git, Zsh 
+# Install Essentials, Extras, Git, Zsh
 ---
   * `sudo apt-get install -y build-essential`
   * `sudo apt-get install -y ubuntu-restricted-extras`
@@ -116,7 +116,7 @@ NOTE 4: **Anaconda** : Why not Anaconda ? I have done some previous installation
 
 ## Python and Libs
   * `python get-pip.py `   # install pip
-  * `sudo apt-get install python-dev `   # pythonLibs 
+  * `sudo apt-get install python-dev `   # pythonLibs
   * `sudo apt-get install libblas-dev liblapack-dev libatlas-base-dev gfortran`
   * `sudo pip install cython git+https://github.com/scipy/scipy `   # Installs Cython and Scipy both (Cython is requirement for scipy)
   * `sudo pip install -U scikit-learn `   # Requires numpy and scipy
@@ -132,7 +132,7 @@ NOTE 4: **Anaconda** : Why not Anaconda ? I have done some previous installation
   * Install leveldb # for efficient use with Caffe, and probably other libs
     * git clone git@github.com:google/leveldb.git
     * make
-    * sudo mv out-shared/libleveldb.* /usr/local/lib/ 
+    * sudo mv out-shared/libleveldb.* /usr/local/lib/
     * sudo cp -R include/leveldb /usr/local/include
     * sudo ldconfig
 
@@ -140,7 +140,7 @@ NOTE 4: **Anaconda** : Why not Anaconda ? I have done some previous installation
   * `sudo apt-get install python3-pip`  # to install jupyter for python3, it needs pip3 and does not work using pip
   * `sudo pip install jupyter`
   * `sudo pip3 install jupyter `   # I don't know why it requires sepearate installation, especially when not done using Anaconda !
-   
+
 # NVIDIA
 ---
 
@@ -186,11 +186,11 @@ This is to install OpenCV 3.1 on Ubuntu 15.10. Thanks to the people at BVLC/Caff
  * `sudo checkinstall # to create the deb package, and install it.`
 
 # FFMPEG
- 
+
  * `sudo apt-get install -y ffmpeg`
 
 # ImageMagick
- 
+
  * `sudo apt-get install -y imagemagick`
 
 
@@ -215,7 +215,7 @@ This is to install OpenCV 3.1 on Ubuntu 15.10. Thanks to the people at BVLC/Caff
   * `curl -s https://raw.githubusercontent.com/torch/ezinstall/master/install-deps | bash`
   * `git clone https://github.com/torch/distro.git ~/torch --recursive`
   * `cd ~/torch; ./install.sh`
-  
+
   Aditionally to load caffe models in torch,
   * `luarocks install loadcaffe`
 
@@ -224,7 +224,7 @@ This is to install OpenCV 3.1 on Ubuntu 15.10. Thanks to the people at BVLC/Caff
 ### Note
  * Switch back to GCC 5 and G++ 5, because the prebuilt libraries of Ubuntu 15.10 are built on gcc 5, and thus compiling caffe in 4.8 will
  not link them. However, caffe will refuse to compile with gcc 5, with error from following file
- `/usr/local/cuda/include/host_config.h` Just comment out the line 115, which checks the version of GCC 
+ `/usr/local/cuda/include/host_config.h` Just comment out the line 115, which checks the version of GCC
  * Use the CMake instead of default make (checkout <https://github.com/BVLC/caffe/pull/1667> )
 
 ### Requirements
@@ -277,7 +277,7 @@ This is to install OpenCV 3.1 on Ubuntu 15.10. Thanks to the people at BVLC/Caff
   `CXXFLAGS += -D_GLIBCXX_USE_CXX11_ABI=0`
 
   * Issues with Google Lib Protobuf (even after the ABI CXX11 fix)
-        
+
       * `cd /usr/local/lib`
       * `sudo mkdir libprotobuf_`
       * `mv libprotobuf* libprotobuf_`
@@ -335,7 +335,7 @@ This is to install OpenCV 3.1 on Ubuntu 15.10. Thanks to the people at BVLC/Caff
   * `cd ~/.vim/colors/ `
   * `wget https://raw.githubusercontent.com/altercation/vim-colors-solarized/master/colors/solarized.vim`
 ### Powerline & associated fonts
-  * `pip install powerline-status    `   # Powerline 
+  * `pip install powerline-status    `   # Powerline
   * `wget https://github.com/Lokaltog/powerline/raw/develop/font/PowerlineSymbols.otf https://github.com/Lokaltog/powerline/raw/develop/font/10-powerline-symbols.conf`
   * `mkdir -p ~/.fonts/ && mv PowerlineSymbols.otf ~/.fonts/`
   * `fc-cache -vf ~/.fonts`
