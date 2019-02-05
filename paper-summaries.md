@@ -2,7 +2,6 @@
 title: Paper Summaries
 date: 2016-07-05 00:00:00 +0000
 layout: page
-draft: true
 ---
 ## Lala
 
