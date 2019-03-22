@@ -40,8 +40,8 @@ My masters thesis focused on compressing neural networks and providing fast, eff
 * My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral). Details [here]().
 * I completed a research internship at IBM Research to understand industrial research.
 * I attended [**WACV 2018**](http://wacv18.wacv.net/).
-* My research on Binary Networks [**Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory**](https://arxiv.org/abs/1804.03867) got accepted at WACV 2018 (Oral). Details [here]().
-* My research on Binary Networks [**Distribution-Aware Binarization of Neural Networks for Sketch Recognition**](https://arxiv.org/abs/1804.02941) got accepted at WACV 2018 (Oral). Details [here]().
+* My research on Hybrid Binary Networks [**Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory**](https://arxiv.org/abs/1804.03867) got accepted at WACV 2018 (Oral). Details [here]().
+* My research on Distribution-aware Binary Networks [**Distribution-Aware Binarization of Neural Networks for Sketch Recognition**](https://arxiv.org/abs/1804.02941) got accepted at WACV 2018 (Oral). Details [here]().
 
 
 ---
