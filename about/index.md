@@ -34,14 +34,13 @@ My masters thesis focused on compressing neural networks and providing fast, eff
 
 ### 2018
 
-* I am on a yearlong residency at **Verisk HQ**, to work in the ML group of a S&P500 finance company.
-* I attended [**NeurIPS 2018**](https://nips.cc/Conferences/2018).
-* I attended [**ECCV 2018**](https://eccv2018.org/).
+* I am on a yearlong residency at **Verisk HQ**, to work in the ML group of a S&P 500 finance company.
+* I attended [**NeurIPS 2018**](https://nips.cc/Conferences/2018) as a part of Verisk ML group.
+* I attended [**ECCV 2018**](https://eccv2018.org/). Thank you [Google](https://ai.google/research/) for providing full-funding!
 * My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral). Details [here]().
 * I completed a research internship at IBM Research to understand industrial research.
-* I attended [**WACV 2018**](http://wacv18.wacv.net/).
+* I attended [**WACV 2018**](http://wacv18.wacv.net/). Thank you [CVIT](http://cvit.iiit.ac.in/) for providing full-funding!
 * My research on Hybrid Binary Networks [**Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory**](https://arxiv.org/abs/1804.03867) got accepted at WACV 2018 (Oral). Details [here]().
 * My research on Distribution-aware Binary Networks [**Distribution-Aware Binarization of Neural Networks for Sketch Recognition**](https://arxiv.org/abs/1804.02941) got accepted at WACV 2018 (Oral). Details [here]().
-
 
 ---
