@@ -1,15 +1,14 @@
 ---
 title: Deep Learning software installation guide on fresh Ubuntu
-author: aaditya prakash
+author: drimpossible
 layout: post
-permalink: "/blog/Linux/Deep-Learning-software-installation-guide-on-fresh-Ubuntu/"
+permalink: "/blog/life/example_post/"
 categories:
-- computer science
-- math
+- setups
+- automation
 tags:
 - Linux
-- Theano
-- Tensorflow
+- PyTorch
 - deep learning
 date: 2016-01-15 00:00:00 +0000
 ---

@@ -6,22 +6,22 @@ dsq_thread_id:
 date: 2019-03-22
 ---
 
-Welcome to notes of [Dr. Impossible](drimpossible.github.io/about)! I use this to pin down my thoughts and random musings on research and academic life. 
+Welcome to notes of [Dr. Impossible]({{site.baseurl}}/about)! I present to you my random musings on academics. 
 
-# All the sub-pages
+## Categories
 
-[Paper Readings]({{site.baseurl}}/blog/Readings)
+[Paper Readings]({{site.baseurl}}/blog/readings)
 
-This section contains my thoughts about research papers and directions.  
+My commentary about research papers and interesting directions.  
   
-[Tutorials]({site.baseurl}}/blog/Tutorials)
+[Tutorials]({{site.baseurl}}/blog/tutorials)
 
-This section contains 101's on topics I have been studying in the past. Synonymous to coursework.
+My attempt to summarize 101's on topics. Building blocks for courses I wish I would teach.
   
-[Research Life]({site.baseurl}}/blog/Life)
+[Research Life]({{site.baseurl}}/blog/life)
 
-This section contains my musings over social/community aspects of research life. 
+Musings over social/community aspects of academic life. 
 
-[Philosophy](site.baseurl}}/blog/Philosophy)
+[Philosophy]({{site.baseurl}}/blog/philosophy)
 
 This section contains my thoughts on broad directions and goals of interesting work, but mostly epistemology.
