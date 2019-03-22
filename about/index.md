@@ -19,11 +19,10 @@ My masters thesis focused on compressing neural networks and providing fast, eff
 
 ## <a name="biography" id="biography"></a>Highlights
 
-<table style="border-collapse: collapse; border: none; margin: 0px auto;" width="100%" align='left'> <tr style="border: none;"> <td style="border: none; "><h3>Education</h3></td><td style="border: none; "><h3>Experience</h3></td><td style="border: none; "><h3>Research</h3></td> <td style="border: none; "><h3>Code</h3></td> </tr> <tr> <td style="border: none; "> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/Oxford.png" height="60px" width="60px" /> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/IIITH.png" height="60px" width="60px" /> </td> <td style="border: none; "> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/IBM.svg" height="60px" width="60px" /> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/Verisk.png" height="60px" width="60px" /></td> <td style="vertical-align: top;"><strong> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf"> ECCV</a><br/> <a href="https://arxiv.org/abs/1804.03867">WACV</a><br/> <a href="https://aclanthology.info/papers/C16-1234/c16-1234">COLING</a><br/> <a href="https://arxiv.org/pdf/1610.03098v3.pdf">COLING</a><br/> </strong></td> <td style="vertical-align: top;"><strong> 
-<a href="https://github.com/drimpossible/Deep-Expander-Networks"><img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/github.png" height="15px" width="15px"> Pixel Deflection (16★)</a><br/> 
-<a href="https://github.com/drimpossible/Sub-word-LSTM/"><img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/github.png" height="15px" width="15px"> VQA Demo  (159★)</a><br/>
-<a href="https://github.com/erilyth/HybridBinaryNetworks-WACV18"><img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/github.png" height="15px" width="15px"> Semantic image compression (98★)</a><br/>
-<a href="https://github.com/erilyth/HybridBinaryNetworks-WACV18"><img src="https://raw.githubusercontent.com/iamaaditya/iamaaditya.github.io/master/images/github.png" height="15px" width="15px"> Neural Paraphrasing Generation (83★)</a><br/>
+<table style="border-collapse: collapse; border: none; margin: 0px auto;" width="100%" align='left'> <tr style="border: none;"> <td style="border: none; "><h3>Education</h3></td><td style="border: none; "><h3>Experience</h3></td><td style="border: none; "><h3>Research</h3></td> <td style="border: none; "><h3>Code</h3></td> </tr> <tr> <td style="border: none; "> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/Oxford.png" height="60px" width="60px" /> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/IIITH.png" height="60px" width="60px" /> </td> <td style="border: none; "> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/IBM.png" height="60px" width="60px" /> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/Verisk.jpg" height="60px" width="60px" /></td> <td style="vertical-align: top;"><strong> <a href="http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf"> ECCV</a><br/> <a href="https://arxiv.org/abs/1804.03867">WACV</a><br/> <a href="https://aclanthology.info/papers/C16-1234/c16-1234">COLING</a><br/><br/> </strong></td> <td style="vertical-align: top;"><strong> 
+<a href="https://github.com/drimpossible/Deep-Expander-Networks"><img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/github.png" height="15px" width="15px">Deep Expander Networks</a><br/> 
+<a href="https://github.com/erilyth/HybridBinaryNetworks-WACV18"><img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/github.png" height="15px" width="15px">Hybrid Binary Networks</a><br/>
+<a href="https://github.com/drimpossible/Sub-word-LSTM"><img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/github.png" height="15px" width="15px">Subword-LSTM</a><br/>
 </strong></td>
 </tr>
 </table>
@@ -35,12 +34,12 @@ My masters thesis focused on compressing neural networks and providing fast, eff
 
 ### 2018
 
-* I am on a yearlong fellowship at **Verisk Analytics**.
-* I attended [**NeurIPS 2018**](https://nips.cc/Conferences/2018). My highlights [here]()
-* I attended [**ECCV 2018**](). My experience [here]()
+* I am on a yearlong residency at **Verisk** HQ, to work in the ML group of a S&P500 finance company.
+* I attended [**NeurIPS 2018**](https://nips.cc/Conferences/2018).
+* I attended [**ECCV 2018**](https://eccv2018.org/).
 * [Deep Expander Networks: Efficient Networks from Graph Theory] got accepted at ECCV 2018 (Oral). Details [here]().
-* I completed a research internship at IBM Research, India. My experience [here]()
-* I attended [**WACV 2018**](). My experience [here]()
+* I completed a research internship at IBM Research to understand industrial research.
+* I attended [**WACV 2018**](http://wacv18.wacv.net/).
 * [Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory] got accepted at WACV 2018 (Oral). Details [here]().
 * [Distribution-Aware Binarization of Neural Networks for Sketch Recognition] got accepted at WACV 2018 (Oral). Details [here]().
 
