@@ -2,4 +2,4 @@
 
 Code for the blog: http://drimpossible.github.io
 
-Heavily inspired by the excellent blog by [Aaditya Prakash](http://iamaaditya.github.io)
+Formatting heavily inspired by the excellent blog of [Aaditya Prakash](http://iamaaditya.github.io). If mine is the movie, his is the original novel.

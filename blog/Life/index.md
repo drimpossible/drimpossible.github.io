@@ -1,9 +1,9 @@
 ---
-title: Blog
+title: Life
 author: drimpossible
 layout: page
 dsq_thread_id:
-date: 2019-03-22
+-
 ---
 
 Welcome to notes of [Dr. Impossible](drimpossible.github.io/about)! I use this to pin down my thoughts and random musings on research and academic life. 
@@ -12,7 +12,7 @@ Welcome to notes of [Dr. Impossible](drimpossible.github.io/about)! I use this t
 
 [Paper Readings]({{site.baseurl}}/blog/Readings)
 
-This section contains my thoughts about research papers and directions.  
+This section contains my thoughts about research papers, directions and .  
   
 [Tutorials]({site.baseurl}}/blog/Tutorials)
 
