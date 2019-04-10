@@ -9,13 +9,18 @@ Table of Contents     [Biography](#biography)     [Highlights](#highlights
 
 ---
 
-## <a name="biography" id="biography"></a>Biography
+## <a name="biography" id="biography"></a>About Me
 
-I am a prospective PhD student, joining [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) at the [University of Oxford](http://www.ox.ac.uk/). 
-I want to contribute my life and career towards designing human-aligned artificial intelligence systems. 
-Specifically, I am interested in [accurate forecasting](https://80000hours.org/podcast/episodes/prof-tetlock-predicting-the-future/), 
-[lifelong learning](). I have completed my masters in computer science student at [**IIIT-Hyderabad**](http://www.iiit.ac.in), India. 
-My masters thesis focused on compressing neural networks and providing fast, efficient but accurate deep networks to people.
+I like to read about all aspects of **the future**, currently intrigued by artificial intelligence, economics and philosophy of science. I want to dedicate my career towards designing algorithms to acquire more general notions of intelligence through learning. 
+
+I believe theoretically grounded approaches should go hand-in-hand with challenging practical problems: Principled approaches can accelerate research compared to extensive hit-and-try approaches popular today. Conversely, it is crucial to make real-world assumptions to model computationally hard problems and side-step worst-case complexity. 
+ 
+I am a prospective PhD student joining [Torr Vision Group](http://www.robots.ox.ac.uk/~tvg/) at the [University of Oxford](http://www.ox.ac.uk/) co-supervised by [Prof. Philip Torr](http://www.robots.ox.ac.uk/~phst/) and [Prof. Varun Kanade](http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html). I am currently interested in exploring [lifelong learning](https://arxiv.org/pdf/1802.07569.pdf). 
+
+I have previously completed my bachelors and masters in computer science student at [**IIIT-Hyderabad**](http://www.iiit.ac.in), India. 
+My thesis focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions to develop efficient but accurate deep networks. 
+
+The Jungian personality type of the academic me is currently INTP, dominated by Ti and Ne. Here are the [non-academic me](bayesianconspirator.github.io) or [personal me](anarchicorganizer.github.io) if they intrigue you more.
 
 ## <a name="biography" id="biography"></a>Highlights
 
@@ -26,11 +31,12 @@ My masters thesis focused on compressing neural networks and providing fast, eff
 </strong></td>
 </tr>
 </table>
-<table width="100%">
-<tr><td> </td><td> </td><td> </td></tr>
-</table>
 
 ## <a name="updates" id="biography"></a>Updates
+
+### 2019
+
+* Selected to do a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
 ### 2018
 
