@@ -20,7 +20,7 @@ I am a prospective PhD student joining [Torr Vision Group](http://www.robots.ox.
 I have previously completed my bachelors and masters in computer science student at [**IIIT-Hyderabad**](http://www.iiit.ac.in), India. 
 My thesis focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions to develop efficient but accurate deep networks. 
 
-The Jungian personality type of the academic me is currently INTP, dominated by Ti and Ne. Here are the [non-academic me](bayesianconspirator.github.io) or [personal me](anarchicorganizer.github.io) if they intrigue you more.
+The Jungian personality type of the academic me is currently INTP, dominated by Ti and Ne. Here are the [non-academic me](https://bayesianconspirator.github.io/about/) or [personal me](https://anarchicorganizer.github.io) if they intrigue you more.
 
 ## <a name="biography" id="biography"></a>Highlights
 
@@ -36,7 +36,7 @@ The Jungian personality type of the academic me is currently INTP, dominated by 
 
 ### 2019
 
-* Selected to do a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
+* I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
 ### 2018
 

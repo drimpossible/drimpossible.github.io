@@ -20,5 +20,4 @@ Welcome to notes of [Dr. Impossible]({{site.baseurl}}/about)! I use this to pin 
 [Social Media]()- Coming up soon!
 
 ### Reviewing
-* [Reviewing: Frustrations]({{{{site.baseurl}}/blog/life/review_frustrations/)- Coming up soon!
 * [Reviewing Guideline]({{site.baseurl}}/blog/life/reviewing_guideline/)- Coming up soon!
