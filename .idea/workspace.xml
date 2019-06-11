@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a1b35b2-f1aa-432d-a1e5-96c604934120" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/life/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/life/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/keep_on_top.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/hardware/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/new_machine/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/nn_hardware/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/practical.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes/temp.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/paper-summaries.md" beforeDir="false" />
-    </list>
+    <list default="true" id="7a1b35b2-f1aa-432d-a1e5-96c604934120" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +138,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-1" width="1920" height="1040" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16341592" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />

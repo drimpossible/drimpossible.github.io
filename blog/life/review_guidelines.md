@@ -1,0 +1,264 @@
+---
+title: Reviewing for dummies?
+author: drimpossible
+layout: post
+permalink: "/blog/life/reviewing_nervousness/"
+categories:
+- reviews
+tags:
+- Academic
+- Life
+- Community
+date: 2019-06-10 00:00:00 +0000
+---
+
+Now, that I am partially confident about putting the guidelines I used out. I still think we should keep undergrads like me out of reviewing, I was scared that I might give horrible reviews when I write them all by myself that I pieced together this guide to help myself.
+
+Table of Contents
+=================
+
+- [Table of Contents](#table-of-contents)
+- [Bare Basics](#bare-basics)
+  - [Audience](#audience)
+  - [Ethics](#ethics)
+- [Philosophy](#philosophy)
+  - [Prevent Bad Work](#prevent-bad-work)
+  - [Writing the review](#writing-the-review)
+- [Aspects](#aspects)
+- [Review Structure](#review-structure)
+
+# Bare Basics
+
+## Audience
+
+There are three audiences for your review: Area Chairs, Authors and Community.
+
+Area Chairs (Primary): They need clearly justified guidance for paper accept/reject decisions
+
+Authors (Secondary): They need fair consideration and constructive feedback on what directions should they build upon (egardless of acceptance).
+
+Community (Long term): You should help your community, ensure every submitted paper teaches something worthwhile. 
+
+## Ethics
+
+No conflict of interest: Before accepting an invitation to review, you better be confident in your ability to assess the paper impartially. You cannot impartially review of your advisor's paper, your current or recent boss' paper. You should be impartial towards competing groups' work, or a colleague's paper etc. The best method is to put conflict domains as per guidelines to partially automate some aspects of this.
+
+Impartiality: You might be be asked to review a paper that deals with a problem that you would like to be solved. Obviously, it is a huge breach of confidentially, etiquette, and professional standards, not to mention being incredibly nasty, to steal an idea from a paper that you are asked to review. The community needs to respect everyone's contributions to the highest degree. Please, don't be that reviewer! 
+
+Epistemic Kindness: Be kind to ideas you disagree with. Kindness to positions you want to dismiss as crazy and dismiss with insults and mockery. Kindness that breaks you out of your own arrogance, makes you realize the truth is more important than your own glorification, especially when the authors have spent months of effort, there is a lot at stake. When a paper proposes an idea which you disagree with, before you dismiss and slap yourself five for your brilliant takedown, take a second to consider it fairly on its own terms. 
+
+# Philosophy
+
+## Prevent Bad Work
+
+* Papers which have methods, results, or claims are blatantly false.
+* Papers which have major flaws that cannot not be corrected.
+* Papers which are clearly far inferior than the current state of the art.
+
+Put a strong reject if: You think the paper is uninteresting and you wouldn't accept it even if they did everything you recommend. This helps authors explore better directions than the current one.
+
+## Writing the review
+
+I saw people generally follow these guidelines:
+
+* Being concise - Nothing extraneous
+* Being precise - State specific problems with the manuscript
+* Being constructive - State how problems you found can be addressed by authors
+* Being polite - Focus on real issues rather than pet peeves.
+
+Specifics are discussed later, but to put in context: Don't point out typos (rule 4).
+
+# Aspects
+
+Evaluate aspects of paper and give concrete feedback to make the work better:
+
+* Is it in line with the journal/conference’s scope?
+* Claims are new and unambiguously stated.
+* Acknowledgement is given to the existing body of work.
+* The improvements can be attributed to the method and not some other change.
+* Results presented have been interpreted correctly and all interpretations considered.
+
+
+1) Understanding: Understand the paper
+
+# Review Structure 
+
+Write a clear review.
+
+Be Concrete!
+
+Check that the research reported has been carried out well and there are no
+
+flaws in the design or methodology
+
+Ensure that the results are not too preliminary or too speculative, but at the
+
+same time do not block innovative new research and theories
+
+How to judge papers?
+
+1)
+
+2) Does your expertise cover all aspects of the article? If not, describe
+
+which sections you can respond to and why?
+
+3) Does the claims make sense intuitively?
+
+4) Is it useful to you (A proxy for the community)?
+
+Listed below are expectations to be met by each section of the manuscript:
+
+Abstract:
+
+1)
+
+Introduction:
+
+1) Does the Introduction clearly identify the need and relevance for this research?
+
+Related Work:
+
+1) Has the authors covered very similar works and differentiated their work from the ones that look similar. This section should convince readers of novelty if it’s not obvious.
+
+Our Approach:
+
+1) Does the methodology target the main claims appropriately?
+
+2) How complex is the presented model?
+
+Results:
+
+1) Are the results clearly and logically presented
+
+2) Are they justified by the data presented?
+
+3) Are the figures clear and fully described?
+
+Common issues faced:
+
+Insufficient data
+Statistically non-significant variations
+Unclear data tables
+Contradictory data that either are not self-consistent or disagree with the conclusions
+Confirmatory data that adds little, if anything, to current understanding - unless strong arguments for such repetition are made
+Conclusions:
+
+1) Do the conclusions justifiably respond to main questions the author(s) posed?
+
+2) Do the Conclusions go too far or not far enough based on the results?
+
+3)
+
+Reviewing Procedure
+
+
+Summary:
+
+1) You should find the parts you think are most relevant and those should constitute the summary.
+
+Common mistakes:
+
+1) The summary should absolutely not be a restatement of the abstract of the paper
+
+2) Summary is critical because if you can't distill the ideas down then you haven't really understood the paper
+
+Major Issues:
+
+Common major issues:
+
+1) Claims not supported by the data.
+
+2) Methods or result which appear completely incorrect.
+
+3) Critical missing pieces of information.
+
+4) A paper that is not readable by a person trying their best to understand it.
+
+How to structure it:
+
+1) Point to specific figures, paragraphs, or results for each major issue and be concrete about the problems. Vague criticisms are unacceptable. When possible, use references from previous literature to back up your claims.
+
+Not making all data and code available with a specific link and instructions, is a major issue.
+
+Minor issues should also be a bulleted list. There are a much broader range of minor issues that you may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels, or the paper has extraneous results that aren't relevant to the claims being made.
+
+Unless the paper was outright rejected or accepted, the authors will have a chance to respond to your review. If you have followed the guidelines above, it should make the re-review process more straightforward:
+
+If you said minor revision and they addressed your minor issues - accept.
+If you said major revisions and they addressed all your major/minor issues - accept.
+If you said major revisions and they didn't do what you asked - major revisions with the outstanding issues.
+If you said major revisions and their revision showed their method was incorrect/uninteresting - reject.
+try and separate your points into
+
+“Major”
+
+or
+
+“Minor”
+
+issues
+
+and/or suggestions. Using bullet points can help the author(s) keep track
+
+when responding to your review.
+
+Is the manuscript’s story cohesive and tightly reasoned throughout?
+
+If not, where does it deviate from the central argument?
+
+Make sure that your review
+
+is constructive and not offensive. Please change text that could be
+
+considered rude before you submit
+
+Here are some things that your comments to the authors should not contain:
+
+A recommendation of whether to accept or reject the paper
+Requests for citations to a bunch of your papers (this will matter more later in your career)
+Requests for experiments/simulations that are unnecessary to justify the main points in the paper
+Insulting criticism or sarcasm
+Typos are not minor issues or major issues. It is not your responsibility to find them. If there are a huge number of typos then that may be stated as a minor issue. If the paper is completely unreadable then that is a major issue. Completely unreadable means you could not follow the paper even after ignoring all typos.
+
+After-Rebuttal / Re-review Stage
+
+If the paper is not "Strong Reject", things to keep in mind while re-reviewing:
+
+Minor revision / Borderline: Authors addressed your minor issues - Accept.
+Major revision / Weak reject: Authors addressed all your major/minor issues - accept.
+Major revision / Weak reject: Authors didn't do what you asked - Reject/ major revisions with the outstanding issues.
+Major revision/ Weak reject: Experiments showed their method was incorrect/uninteresting - Reject.
+Journal Specific
+
+Remember that someone else put a huge amount of work into this paper and their career/livelihood depends on them getting papers published in a reasonable amount of time.
+
+If you think the paper should be rejected, do it quickly! If you think it should be accepted, do it quickly!
+
+Handling Policy Violations
+
+1) Contact the program chairs with the paper number and explanation of the suspected problem.
+
+2) Review the paper as if there is no problem
+
+Program chairs/ Editors will follow up on the issue, but it may take some time.
+
+Supplemental material
+
+The supplemental material is intended to provide details of derivations and results that does not fit within the paper format or space limit. It is not an extension of the deadline. The paper should indicate which materials are in the supplemental material, and you need consult only if you think it is helpful in understanding the paper and its contribution.
+
+References
+
+[1] https://github.com/jtleek/reviews
+
+[2] https://www.danielcolquitt.com/journal/2017/10/peer-reviewing-your-first-paper
+
+[3] https://www.journals.elsevier.com/applied-soft-computing/news/tips-and-advice-when-you-review-a-scientific-paper
+
+[4] http://www.cs.ucsb.edu/~mariya/courses/papers/ReviewingPapers.html
+
+[5] https://authorservices.wiley.com/Reviewers/journal-reviewers/how-to-perform-a-peer-review/step-by-step-guide-to-reviewing-a-manuscript.html
+
+[6] https://www.sciencemag.org/careers/2016/09/how-review-paper
+
+[7] https://www.dropbox.com/s/725p60wcajbb8xh/How%20to%20Review%20for%20CVPR.pptx?dl=0#
