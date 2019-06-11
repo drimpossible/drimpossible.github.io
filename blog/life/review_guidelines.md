@@ -24,8 +24,28 @@ Table of Contents
 - [Philosophy](#philosophy)
   - [Prevent Bad Work](#prevent-bad-work)
   - [Writing the review](#writing-the-review)
-- [Aspects](#aspects)
+  - [Evaluation Aspects](#evaluation-aspects)
+- [Paper Structure](#paper-structure)
+  - [Abstract](#abstract)
+  - [Introduction](#introduction)
+  - [Related Work](#related-work)
+  - [Proposed Approach](#proposed-approach)
+  - [Results](#results)
+    - [Common issues faced:](#common-issues-faced)
+  - [Conclusions](#conclusions)
 - [Review Structure](#review-structure)
+  - [Summary](#summary)
+    - [Common mistakes:](#common-mistakes)
+  - [Positives](#positives)
+  - [Negatives](#negatives)
+    - [Major Issues](#major-issues)
+    - [Minor Issues](#minor-issues)
+    - [How to structure?](#how-to-structure)
+  - [Avoid in reviews](#avoid-in-reviews)
+  - [Re-review process (Post-rebuttal Phase)](#re-review-process-post-rebuttal-phase)
+  - [Handling Policy Violations](#handling-policy-violations)
+  - [Supplemental material](#supplemental-material)
+- [References](#references)
 
 # Bare Basics
 
@@ -49,9 +69,11 @@ Epistemic Kindness: Be kind to ideas you disagree with. Kindness to positions yo
 
 # Philosophy
 
+Remember that someone else put a huge amount of work into this paper and their career/livelihood depends on them getting papers published in a reasonable amount of time. If you think the paper should be rejected, do it quickly! If you think it should be accepted, do it quickly!
+
 ## Prevent Bad Work
 
-* Papers which have methods, results, or claims are blatantly false.
+* Papers which have methods, design, results, or claims are blatantly false.
 * Papers which have major flaws that cannot not be corrected.
 * Papers which are clearly far inferior than the current state of the art.
 
@@ -62,13 +84,13 @@ Put a strong reject if: You think the paper is uninteresting and you wouldn't ac
 I saw people generally follow these guidelines:
 
 * Being concise - Nothing extraneous
-* Being precise - State specific problems with the manuscript
+* Being precise - State specific problems with the manuscript, be concrete!
 * Being constructive - State how problems you found can be addressed by authors
 * Being polite - Focus on real issues rather than pet peeves.
 
-Specifics are discussed later, but to put in context: Don't point out typos (rule 4).
+Specifics are discussed later, for eg: Don't point out typos (rule 4).
 
-# Aspects
+## Evaluation Aspects
 
 Evaluate aspects of paper and give concrete feedback to make the work better:
 
@@ -78,176 +100,139 @@ Evaluate aspects of paper and give concrete feedback to make the work better:
 * The improvements can be attributed to the method and not some other change.
 * Results presented have been interpreted correctly and all interpretations considered.
 
+Other guidelines:
 
-1) Understanding: Understand the paper
-
-# Review Structure 
-
-Write a clear review.
-
-Be Concrete!
-
-Check that the research reported has been carried out well and there are no
-
-flaws in the design or methodology
-
-Ensure that the results are not too preliminary or too speculative, but at the
-
-same time do not block innovative new research and theories
-
-How to judge papers?
-
-1)
-
-2) Does your expertise cover all aspects of the article? If not, describe
-
-which sections you can respond to and why?
-
-3) Does the claims make sense intuitively?
-
-4) Is it useful to you (A proxy for the community)?
-
-Listed below are expectations to be met by each section of the manuscript:
-
-Abstract:
-
-1)
-
-Introduction:
-
-1) Does the Introduction clearly identify the need and relevance for this research?
-
-Related Work:
-
-1) Has the authors covered very similar works and differentiated their work from the ones that look similar. This section should convince readers of novelty if it’s not obvious.
-
-Our Approach:
-
-1) Does the methodology target the main claims appropriately?
-
-2) How complex is the presented model?
-
-Results:
-
-1) Are the results clearly and logically presented
-
-2) Are they justified by the data presented?
-
-3) Are the figures clear and fully described?
-
-Common issues faced:
-
-Insufficient data
-Statistically non-significant variations
-Unclear data tables
-Contradictory data that either are not self-consistent or disagree with the conclusions
-Confirmatory data that adds little, if anything, to current understanding - unless strong arguments for such repetition are made
-Conclusions:
-
-1) Do the conclusions justifiably respond to main questions the author(s) posed?
-
-2) Do the Conclusions go too far or not far enough based on the results?
-
-3)
-
-Reviewing Procedure
+* Ensure that the results are not too preliminary or too speculative, but at the
+same time try to not block innovative new research and theories.
+* Does your expertise cover all aspects of the article? If not, describe which sections you can respond to and why?
+* Is it useful to you (A proxy for the community)?
+* Do the claims make sense intuitively?
 
 
-Summary:
+# Paper Structure 
 
-1) You should find the parts you think are most relevant and those should constitute the summary.
+First step is trying to understand the paper and what it says.
 
-Common mistakes:
+Here are some expectations to be met by each section of the manuscript, which are checked by a reviewer.
 
-1) The summary should absolutely not be a restatement of the abstract of the paper
+## Abstract
 
-2) Summary is critical because if you can't distill the ideas down then you haven't really understood the paper
+* ?
 
-Major Issues:
+## Introduction
 
-Common major issues:
+This section should motivate the need for the proposed approach.
 
-1) Claims not supported by the data.
+* Does the introduction clearly identify (1) need and (ii) relevance of the proposed work?
 
-2) Methods or result which appear completely incorrect.
+## Related Work
 
-3) Critical missing pieces of information.
+This section should convince readers of novelty if it’s not obvious.
 
-4) A paper that is not readable by a person trying their best to understand it.
+* Has the authors covered very similar works and differentiated their work from the ones that look similar? 
 
-How to structure it:
+## Proposed Approach
 
-1) Point to specific figures, paragraphs, or results for each major issue and be concrete about the problems. Vague criticisms are unacceptable. When possible, use references from previous literature to back up your claims.
+* Does the methodology target the main claims appropriately?
+* How complex is the presented model?
 
-Not making all data and code available with a specific link and instructions, is a major issue.
+## Results
 
-Minor issues should also be a bulleted list. There are a much broader range of minor issues that you may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels, or the paper has extraneous results that aren't relevant to the claims being made.
+* Are the results clearly and logically presented
+* Are they justified by the data presented?
+* Are the figures clear and fully described?
 
-Unless the paper was outright rejected or accepted, the authors will have a chance to respond to your review. If you have followed the guidelines above, it should make the re-review process more straightforward:
+### Common issues faced:
 
-If you said minor revision and they addressed your minor issues - accept.
-If you said major revisions and they addressed all your major/minor issues - accept.
-If you said major revisions and they didn't do what you asked - major revisions with the outstanding issues.
-If you said major revisions and their revision showed their method was incorrect/uninteresting - reject.
-try and separate your points into
+* Insufficient data
+* Statistically non-significant variations
+* Unclear data tables
+* Contradictory data (Not self-consistent or disagree with the conclusions)
+* Confirmatory data that adds little, if anything, to current understanding  (unless strong arguments for such repetition are made)
+  
+## Conclusions
 
-“Major”
+* Do the conclusions justifiably respond to main questions the author(s) posed?
+* Do the Conclusions go too far or not far enough based on the results?
 
-or
+# Review Structure
 
-“Minor”
+A review would typically consist of 4 parts: (i) Summary (ii) Positives (iii) Negatives (iv) Overall
 
-issues
-
-and/or suggestions. Using bullet points can help the author(s) keep track
-
-when responding to your review.
 
 Is the manuscript’s story cohesive and tightly reasoned throughout?
 
 If not, where does it deviate from the central argument?
 
-Make sure that your review
+## Summary
 
-is constructive and not offensive. Please change text that could be
+* You should find the parts you think are most relevant and those should constitute the summary.
 
-considered rude before you submit
+### Common mistakes:
+
+* The summary should absolutely not be a restatement of the abstract of the paper
+* Summary is critical because if you can't distill the ideas down then you haven't really understood the paper
+
+## Positives
+
+
+## Negatives
+
+Try and separate your points into “Major” or “Minor” issues.
+
+### Major Issues
+
+Common major issues:
+* Claims not supported by the data.
+* Methods or result which appear completely incorrect.
+* Critical missing pieces of information.
+* A paper that is not readable by a person trying their best to understand it.
+
+### Minor Issues
+
+Common minor issues:
+
+### How to structure?
+
+* Point to specific figures, paragraphs, or results for each major issue and be concrete about the problems. Vague criticisms are unacceptable. When possible, use references from previous literature to back up your claims.
+* Not making all data and code available with a specific link and instructions, is a major issue.
+* Minor issues should also be a bulleted list. There are a much broader range of minor issues that you may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels, or the paper has extraneous results that aren't relevant to the claims being made.
+* Using a numbered list of points can help the author(s) keep track when responding to your review and/or suggestions.
+* Make sure that your review is constructive and not offensive. Please change text that could be considered rude before you submit. 
+
+## Avoid in reviews
 
 Here are some things that your comments to the authors should not contain:
+* A recommendation of whether to accept or reject the paper
+* Requests for citations to a bunch of your papers (this will matter more later in your career)
+* Requests for experiments/simulations that are unnecessary to justify the main points in the paper
+* Insulting criticism or sarcasm
+* Typos are not minor issues or major issues. It is not your responsibility to find them.
 
-A recommendation of whether to accept or reject the paper
-Requests for citations to a bunch of your papers (this will matter more later in your career)
-Requests for experiments/simulations that are unnecessary to justify the main points in the paper
-Insulting criticism or sarcasm
-Typos are not minor issues or major issues. It is not your responsibility to find them. If there are a huge number of typos then that may be stated as a minor issue. If the paper is completely unreadable then that is a major issue. Completely unreadable means you could not follow the paper even after ignoring all typos.
+If there are a huge number of typos then that may be stated as a minor issue. If the paper is completely unreadable then that is a major issue. Completely unreadable means you could not follow the paper even after ignoring all typos.
 
-After-Rebuttal / Re-review Stage
+## Re-review process (Post-rebuttal Phase)
 
-If the paper is not "Strong Reject", things to keep in mind while re-reviewing:
+Unless the paper was outright rejected or accepted, the authors will have a chance to respond to your review. If you have followed the guidelines above, it should make the re-review process more straightforward:
+* If you said minor issues and they addressed your minor issues - accept.
+* If you said major issues and they addressed all your major/minor issues - accept.
+* If you said major issues and they didn't do what you asked - reject / major revisions with the outstanding issues
+* If you said major revisions and their revision showed their method was incorrect/uninteresting - reject
 
-Minor revision / Borderline: Authors addressed your minor issues - Accept.
-Major revision / Weak reject: Authors addressed all your major/minor issues - accept.
-Major revision / Weak reject: Authors didn't do what you asked - Reject/ major revisions with the outstanding issues.
-Major revision/ Weak reject: Experiments showed their method was incorrect/uninteresting - Reject.
-Journal Specific
+## Handling Policy Violations
 
-Remember that someone else put a huge amount of work into this paper and their career/livelihood depends on them getting papers published in a reasonable amount of time.
-
-If you think the paper should be rejected, do it quickly! If you think it should be accepted, do it quickly!
-
-Handling Policy Violations
-
-1) Contact the program chairs with the paper number and explanation of the suspected problem.
-
-2) Review the paper as if there is no problem
+* Contact the program chairs with the paper number and explanation of the suspected problem.
+* Review the paper as if there is no problem
 
 Program chairs/ Editors will follow up on the issue, but it may take some time.
 
-Supplemental material
+## Supplemental material
 
 The supplemental material is intended to provide details of derivations and results that does not fit within the paper format or space limit. It is not an extension of the deadline. The paper should indicate which materials are in the supplemental material, and you need consult only if you think it is helpful in understanding the paper and its contribution.
 
-References
+# References
+
+These guidelines are directly sourced from the incomplete following list. I have been using this since I had been asked to review for CVPR 2019 but forgot to include citations in it.
 
 [1] https://github.com/jtleek/reviews
 
