@@ -36,7 +36,7 @@ The Jungian personality type of the academic me is currently INTP, dominated by 
 
 ### 2019
 
-* Got outstanding reviewer award at CVPR 2019, my first reviewign assignement. I'm delighted that I [didn't mess up]()!
+* Got outstanding reviewer award at CVPR 2019, my first reviewign assignement. I'm delighted that I [didn't mess up](/blog/life/reviewing_nervousness/)!
 * I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
 ### 2018
