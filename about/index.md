@@ -2,7 +2,7 @@
 title: ''
 author: Ameya Prabhu
 layout: page
-dsq_thread_id: []
+permalink: "/"
 ---
 Table of Contents     [Biography](#biography)     [Highlights](#highlights)     [Research](#research)    
  [Projects](#projects)     [Publications](#publications)
