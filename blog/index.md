@@ -2,6 +2,7 @@
 title: Blog
 author: drimpossible
 layout: page
+permalink: "/"
 dsq_thread_id:
 date: 2019-03-22
 ---
