@@ -2,7 +2,7 @@
 title: Reviewing for dummies?
 author: drimpossible
 layout: post
-permalink: "/blog/life/reviewing_nervousness/"
+permalink: "/blog/life/reviewing_for_dummies/"
 categories:
 - reviews
 tags:
@@ -57,15 +57,15 @@ Area Chairs (Primary): They need clearly justified guidance for paper accept/rej
 
 Authors (Secondary): They need fair consideration and constructive feedback on what directions should they build upon (egardless of acceptance).
 
-Community (Long term): You should help your community, ensure every submitted paper teaches something worthwhile. 
+Community (Long term): You should help your community, ensure every submitted paper teaches something worthwhile.
 
 ## Ethics
 
 No conflict of interest: Before accepting an invitation to review, you better be confident in your ability to assess the paper impartially. You cannot impartially review of your advisor's paper, your current or recent boss' paper. You should be impartial towards competing groups' work, or a colleague's paper etc. The best method is to put conflict domains as per guidelines to partially automate some aspects of this.
 
-Impartiality: You might be be asked to review a paper that deals with a problem that you would like to be solved. Obviously, it is a huge breach of confidentially, etiquette, and professional standards, not to mention being incredibly nasty, to steal an idea from a paper that you are asked to review. The community needs to respect everyone's contributions to the highest degree. Please, don't be that reviewer! 
+Impartiality: You might be be asked to review a paper that deals with a problem that you would like to be solved. Obviously, it is a huge breach of confidentially, etiquette, and professional standards, not to mention being incredibly nasty, to steal an idea from a paper that you are asked to review. The community needs to respect everyone's contributions to the highest degree. Please, don't be that reviewer!
 
-Epistemic Kindness: Be kind to ideas you disagree with. Kindness to positions you want to dismiss as crazy and dismiss with insults and mockery. Kindness that breaks you out of your own arrogance, makes you realize the truth is more important than your own glorification, especially when the authors have spent months of effort, there is a lot at stake. When a paper proposes an idea which you disagree with, before you dismiss and slap yourself five for your brilliant takedown, take a second to consider it fairly on its own terms. 
+Epistemic Kindness: Be kind to ideas you disagree with. Kindness to positions you want to dismiss as crazy and dismiss with insults and mockery. Kindness that breaks you out of your own arrogance, makes you realize the truth is more important than your own glorification, especially when the authors have spent months of effort, there is a lot at stake. When a paper proposes an idea which you disagree with, before you dismiss and slap yourself five for your brilliant takedown, take a second to consider it fairly on its own terms.
 
 # Philosophy
 
@@ -109,7 +109,7 @@ same time try to not block innovative new research and theories.
 * Do the claims make sense intuitively?
 
 
-# Paper Structure 
+# Paper Structure
 
 First step is trying to understand the paper and what it says.
 
@@ -129,7 +129,7 @@ This section should motivate the need for the proposed approach.
 
 This section should convince readers of novelty if it’s not obvious.
 
-* Has the authors covered very similar works and differentiated their work from the ones that look similar? 
+* Has the authors covered very similar works and differentiated their work from the ones that look similar?
 
 ## Proposed Approach
 
@@ -149,7 +149,7 @@ This section should convince readers of novelty if it’s not obvious.
 * Unclear data tables
 * Contradictory data (Not self-consistent or disagree with the conclusions)
 * Confirmatory data that adds little, if anything, to current understanding  (unless strong arguments for such repetition are made)
-  
+
 ## Conclusions
 
 * Do the conclusions justifiably respond to main questions the author(s) posed?
@@ -198,7 +198,7 @@ Common minor issues:
 * Not making all data and code available with a specific link and instructions, is a major issue.
 * Minor issues should also be a bulleted list. There are a much broader range of minor issues that you may encounter. Some examples include simulations that miss some cases, figures that are missing axis labels, or the paper has extraneous results that aren't relevant to the claims being made.
 * Using a numbered list of points can help the author(s) keep track when responding to your review and/or suggestions.
-* Make sure that your review is constructive and not offensive. Please change text that could be considered rude before you submit. 
+* Make sure that your review is constructive and not offensive. Please change text that could be considered rude before you submit.
 
 ## Avoid in reviews
 
