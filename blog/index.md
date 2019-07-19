@@ -7,7 +7,7 @@ dsq_thread_id:
 date: 2019-03-22
 ---
 
-Welcome to notes of [Dr. Impossible]({{site.baseurl}}/about)! I present to you my random academic musings.
+Hi, stranger! Welcome to blog of [Dr. Impossible]({{site.baseurl}}/about).
 
 ## Categories
 <!--
@@ -29,10 +29,13 @@ This section contains my thoughts on broad directions and goals of interesting w
 ### Paper Summaries
 
 [An Empirical Study of Example Forgetting during Deep Neural Network Learning](/blog/summaries/example_forgetting/)
-[Reth]
+
+[Understanding Deep Learning requires re-thinking generalization](/blog/summaries/rethinking_generalization/)
 
 ### Research Life
 
 [Automating Software Setup](/blog/life/baseline_software_setup/)
+
 [Reviewing Guide for Dummies](/blog/life/reviewing_for_dummies/)
+
 [Things I have](/blog/life/things_i_possess/)

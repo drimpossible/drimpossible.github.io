@@ -12,11 +12,9 @@ Table of Contents     [About Me](#biography)     [Highlights](#highlights)
 
 ## <a name="biography" id="biography"></a>About Me
 
-Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". I like to think about **the future** in general, currently intrigued by intelligent assistance (IA), economics and philosophy of science. I want to dedicate my career towards designing principled algorithms to acquire more general notions of intelligence through learning for better automating tasks and assisting humans. Serious researchers think it's cute when I talk about constitutional law, price theory or anything philosophical. I'm nevertheless amazed by the insights offered.
+Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". I like to think about **the future** in general, currently intrigued by intelligent assistance (IA), economics and philosophy of science. I want to dedicate my career towards designing principled algorithms to acquire more general notions of intelligence through learning for better automating tasks and assisting humans. Serious researchers think it's cute when I talk about constitutional law or price theory. I'm nevertheless amazed by the insights offered by these fields.
 
 Speaking of homegrounds, I aspire to the ideal of "theoretically grounded approaches should go hand-in-hand with challenging practical problems": Principled approaches can accelerate research compared to extensive hit-and-try approaches popular today. Conversely, it's important to make real-world assumptions to model computationally hard problems and side-step worst-case complexity.
-
-I completed my bachelors and masters in computer science student at [**IIIT-Hyderabad**](http://www.iiit.ac.in), India in July 2019. [My thesis]() focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions to develop efficient but accurate deep networks.
 
 The Jungian personality type of the academic me is currently INTP, dominated by Ti and Ne. Here is the [non-academic me](https://bayesianconspirator.github.io/about/) if he intrigues you more, also [a note]() about better fake frameworks.
 
@@ -35,12 +33,12 @@ The Jungian personality type of the academic me is currently INTP, dominated by 
 ### 2019
 
 * Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**]() focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
-* Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline]() I developed for myself.
+* Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline](/blog/life/reviewing_for_dummies/) I developed for reference.
 * I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
 ### 2018
 
-* Got a yearlong residency at **Verisk HQ**, to work for the ML group of a NASDAQ 100 finance company.
+* Got a yearlong residency at **Verisk HQ**, to work for the ML group of a NASDAQ 100 financial risk assessment corporation.
 * I attended [**ECCV 2018**](https://eccv2018.org/). Thank you [Google](https://ai.google/research/) for providing full travel-grant!
 * My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral). Details [here]().
 * I completed a research internship at IBM Research to experience industrial research.
@@ -50,8 +48,7 @@ The Jungian personality type of the academic me is currently INTP, dominated by 
 
 ## <a name="publications" id="publications"> Publications
 
-### Deep Expander Networks, ECCV 2018 (Oral)
-<center> <img src="https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/Expander.png" height="85%" width="85%" /> </center>
+#### Deep Expander Networks, ECCV 2018 (Oral)
 <details> <summary><a>Abstract</a></summary>
 Efficient CNN designs like ResNets and DenseNet were proposed to improve accuracy vs efficiency trade-offs. They essentially increased the connectivity, allowing efficient information flow across layers. Inspired by these techniques, we propose to model connections between filters of a CNN using graphs which are simultaneously sparse and well connected. Sparsity results in efficiency while well connectedness can preserve the expressive power of the CNNs. We use a well-studied class of graphs from theoretical computer science that satisfies these properties known as Expander graphs. Expander graphs are used to model connections between filters in CNNs to design networks called X-Nets. We present two guarantees on the connectivity of X-Nets: Each node influences every node in a layer in logarithmic steps, and the number of paths between two sets of nodes is proportional to the product of their sizes. We also propose efficient training and inference algorithms, making it possible to train deeper and wider X-Nets effectively.
 Expander based models give a 4% improvement in accuracy on MobileNet over grouped convolutions, a popular technique, which has the same sparsity but worse connectivity. X-Nets give better performance trade-offs than the original ResNet and DenseNet-BC architectures. We achieve model sizes comparable to state-of-the-art pruning techniques using our simple architecture design, without any pruning. We hope that this work motivates other approaches to utilize results from graph theory to develop efficient network architectures.

@@ -12,7 +12,9 @@ tags:
 date: 2019-06-10 00:00:00 +0000
 ---
 
-Now, that I am partially confident about putting the guidelines I used out. I still think we should keep undergrads like me out of reviewing, I was scared that I might give horrible reviews when I write them all by myself that I pieced together this guide to help myself.
+Now, that I am partially confident about putting the guidelines I used out, here it is. This guide is aimed at the structural aspects of a good review. I agree that we should keep undergrads like me out of the reviewing process, since we lack the domain knowledge aand experience to provide a good review.
+
+These guidelines are **directly sourced** from the incomplete list in the references section. I've added the structure after I decided to post this online, so if I missed your blog/slides but sourced from it, please let me know. I'll gladly cite it. Apologies!
 
 Table of Contents
 =================
@@ -53,9 +55,9 @@ Table of Contents
 
 There are three audiences for your review: Area Chairs, Authors and Community.
 
-Area Chairs (Primary): They need clearly justified guidance for paper accept/reject decisions
+Area Chairs (Primary): They need clearly justified guidance for paper accept/reject decisions and critical reviews.
 
-Authors (Secondary): They need fair consideration and constructive feedback on what directions should they build upon (egardless of acceptance).
+Authors (Secondary): They need fair consideration and constructive feedback on what directions should they build upon (regardless of acceptance).
 
 Community (Long term): You should help your community, ensure every submitted paper teaches something worthwhile.
 
@@ -213,11 +215,11 @@ If there are a huge number of typos then that may be stated as a minor issue. If
 
 ## Re-review process (Post-rebuttal Phase)
 
-Unless the paper was outright rejected or accepted, the authors will have a chance to respond to your review. If you have followed the guidelines above, it should make the re-review process more straightforward:
-* If you said minor issues and they addressed your minor issues - accept.
-* If you said major issues and they addressed all your major/minor issues - accept.
-* If you said major issues and they didn't do what you asked - reject / major revisions with the outstanding issues
-* If you said major revisions and their revision showed their method was incorrect/uninteresting - reject
+Unless the paper was outright rejected or accepted, the authors will have a chance to respond to your review. If you have followed the guidelines above, it should make the re-review process more straightforward: (Conference/Journal)
+* If you said minor issues and they addressed your minor issues - Accept.
+* If you said major issues and they addressed all your major/minor issues - Accept.
+* If you said major issues and they didn't do what you asked - Reject / major revisions with the outstanding issues
+* If you said major revisions and their revision showed their method was incorrect/uninteresting - Reject
 
 ## Handling Policy Violations
 
@@ -232,7 +234,7 @@ The supplemental material is intended to provide details of derivations and resu
 
 # References
 
-These guidelines are directly sourced from the incomplete following list. I have been using this since I had been asked to review for CVPR 2019 but forgot to include citations in it.
+These guidelines are **directly sourced** from the incomplete following list. I was scared that I might give outright horrible reviews when I write them all by myself that I pieced together this guide, and after getting an outstanding reviewer mention decided that it might help people if I put this out.
 
 [1] https://github.com/jtleek/reviews
 
