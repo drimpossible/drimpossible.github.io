@@ -25,6 +25,9 @@ My attempt to summarize 101's on topics. Building blocks for courses I wish I wo
 
 This section contains my thoughts on broad directions and goals of interesting work, but mostly epistemology.
 -->
+### Tutorials
+
+[PAC Learning]()
 
 ### Paper Summaries
 
@@ -38,4 +41,4 @@ This section contains my thoughts on broad directions and goals of interesting w
 
 [Reviewing Guide for Dummies](/blog/life/reviewing_for_dummies/)
 
-[Things I have](/blog/life/things_i_possess/)
+[Interesting Blogs to Read](/blog/summaries/interesting_reads/)

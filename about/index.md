@@ -12,11 +12,13 @@ Table of Contents     [About Me](#biography)     [Highlights](#highlights)
 
 ## <a name="biography" id="biography"></a>About Me
 
-Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". I like to think about **the future** in general, currently intrigued by intelligent assistance (IA), economics and philosophy of science. I want to dedicate my career towards designing principled algorithms to acquire more general notions of intelligence through learning for better automating tasks and assisting humans. Serious researchers think it's cute when I talk about constitutional law or price theory. I'm nevertheless amazed by the insights offered by these fields.
+Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". This name was created when in 12th grade, as a battle against the impossible dream of being "Dr. Ameya", pun intended. Alas, I didn't think long-term.
 
-Speaking of homegrounds, I aspire to the ideal of "theoretically grounded approaches should go hand-in-hand with challenging practical problems": Principled approaches can accelerate research compared to extensive hit-and-try approaches popular today. Conversely, it's important to make real-world assumptions to model computationally hard problems and side-step worst-case complexity.
+I like to think about **the future** in general, currently intrigued by intelligent assistance (IA), computational economics, and constitutional law. I want to dedicate my career towards designing principled algorithms to acquire more general notions of "learnability" and help better automating tasks and assisting humans. Serious researchers think it's cute when I talk about constitutional law, price theory, mechanism design, ecorithms, etc. I'm nevertheless amazed by the insights offered by these fields.
 
-The Jungian personality type of the academic me is currently INTP, dominated by Ti and Ne. Here is the [non-academic me](https://bayesianconspirator.github.io/about/) if he intrigues you more, also [a note]() about better fake frameworks.
+Speaking of homegrounds, I aspire to the ideal of "theoretically grounded approaches should go hand-in-hand with challenging practical problems": Principled approaches can accelerate research compared to extensive hit-and-try approaches popular today. Conversely, it's important to make real-world assumptions to model computationally hard problems and side-step worst-case complexity. As [Marx](https://en.wikipedia.org/wiki/Groucho_Marx) once famously said "Those are my principles, and if you don't like them.. well, I have others".
+
+On the fun side, the jungian personality type of the academic me would be INTP, dominated by Ti and Ne; or my [MTG Color Wheel](https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d) results are dominated by Blue and Red with a White tinge. Also, [a blog I liked](https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks) for meta-discussion about fake frameworks. If this content interests you more, here is the [non-academic me](https://bayesianconspirator.github.io/about/) where you might find more of the same. Welcome to my personal page folks!
 
 ## <a name="highlights" id="highlights"></a>Highlights
 
@@ -32,7 +34,7 @@ The Jungian personality type of the academic me is currently INTP, dominated by 
 
 ### 2019
 
-* Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**]() focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
+* Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**](https://researchweb.iiit.ac.in/~ameya.prabhu/documents/Final_Thesis_V2.pdf) focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
 * Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline](/blog/life/reviewing_for_dummies/) I developed for reference.
 * I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
@@ -40,11 +42,13 @@ The Jungian personality type of the academic me is currently INTP, dominated by 
 
 * Got a yearlong residency at **Verisk HQ**, to work for the ML group of a NASDAQ 100 financial risk assessment corporation.
 * I attended [**ECCV 2018**](https://eccv2018.org/). Thank you [Google](https://ai.google/research/) for providing full travel-grant!
-* My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral). Details [here]().
-* I completed a research internship at IBM Research to experience industrial research.
+* My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral). Details [here]() (coming soon).
+* I completed a research internship at IBM Research to experience industrial research. Got Best Intern Award, Summer '18 for outstanding research at IBM.
 * I attended [**WACV 2018**](http://wacv18.wacv.net/). Thank you [CVIT](http://cvit.iiit.ac.in/) for providing full-funding!
-* My research on Hybrid Binary Networks [**Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory**](https://arxiv.org/abs/1804.03867) got accepted at WACV 2018 (Oral). Details [here]().
-* My research on Distribution-aware Binary Networks [**Distribution-Aware Binarization of Neural Networks for Sketch Recognition**](https://arxiv.org/abs/1804.02941) got accepted at WACV 2018 (Oral). Details [here]().
+* My research on Hybrid Binary Networks [**Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory**](https://arxiv.org/abs/1804.03867) got accepted at WACV 2018 (Oral). Details [here]() (coming soon).
+* My research on Distribution-aware Binary Networks [**Distribution-Aware Binarization of Neural Networks for Sketch Recognition**](https://arxiv.org/abs/1804.02941) got accepted at WACV 2018 (Oral). Details [here]() (coming soon).
+* Got selected for Dean's Merit List for Academic Excellence Award- 2015, 2016, 2017 & 2018
+* Got Undergraduate Research Award for Outstanding Publications in Undergraduate years.
 
 ## <a name="publications" id="publications"> Publications
 
