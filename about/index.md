@@ -52,6 +52,12 @@ On the fun side, the jungian personality type of the academic me would be INTP, 
 
 ## <a name="publications" id="publications"> Publications
 
+### Exploring Binarization and Pruning for Convolutional Neural Networks
+<details> <summary><a>Abstract</a></summary>
+Deep learning models have evolved remarkably, and are pushing the state-of-the-art in various problemsacross domains.  At the same time, the complexity and the amount of resources these DNNs consumehas greatly increased.  Today’s DNNs are computationally intensive to train and run, especially Con-volutional Neural Networks (CNNs) used for vision applications.  They also occupy a large amount ofmemory and consume a large amount of power during training.  This poses a major roadblock to thedeployment of such networks, especially in real-time applications or on resource-limited devices.  Twomethods have shown promise in compressing CNNs: (i) Binarization and (ii) Pruning. We explore thesetwo methods in this thesis.
+</details>
+[\[PDF\]](https://raw.githubusercontent.com/drimpossible/drimpossible.github.io/master/images/Thesis_Ameya.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1eNIW_jKwSaADMQb9chthUE6KgXaqYmUmhvO1cPeofrM/edit?usp=sharing)
+
 #### Deep Expander Networks, ECCV 2018 (Oral)
 <details> <summary><a>Abstract</a></summary>
 Efficient CNN designs like ResNets and DenseNet were proposed to improve accuracy vs efficiency trade-offs. They essentially increased the connectivity, allowing efficient information flow across layers. Inspired by these techniques, we propose to model connections between filters of a CNN using graphs which are simultaneously sparse and well connected. Sparsity results in efficiency while well connectedness can preserve the expressive power of the CNNs. We use a well-studied class of graphs from theoretical computer science that satisfies these properties known as Expander graphs. Expander graphs are used to model connections between filters in CNNs to design networks called X-Nets. We present two guarantees on the connectivity of X-Nets: Each node influences every node in a layer in logarithmic steps, and the number of paths between two sets of nodes is proportional to the product of their sizes. We also propose efficient training and inference algorithms, making it possible to train deeper and wider X-Nets effectively.
