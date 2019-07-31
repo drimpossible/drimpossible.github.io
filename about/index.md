@@ -12,7 +12,7 @@ Table of Contents     [About Me](#biography)     [Highlights](#highlights)
 
 ## <a name="biography" id="biography"></a>About Me
 
-Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". This name was created when in 12th grade, as a battle against the impossible dream of being "Dr. Ameya", pun intended. Alas, I didn't think long-term.
+Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". The username was created when in high school, as a battle against the impossible dream of being "Dr. Ameya" (pun intended) and motivation for it. Alas, I didn't think long-term about  this being my online name.
 
 I like to think about **the future** in general, currently intrigued by intelligent assistance (IA), computational economics, and constitutional law. I want to dedicate my career towards designing principled algorithms to acquire more general notions of "learnability" and help better automating tasks and assisting humans. Serious researchers think it's cute when I talk about constitutional law, price theory, mechanism design, ecorithms, etc. I'm nevertheless amazed by the insights offered by these fields.
 
