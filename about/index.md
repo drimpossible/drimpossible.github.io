@@ -34,7 +34,7 @@ On the fun side, the jungian personality type of the academic me would be INTP, 
 
 ### 2019
 
-* Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**](https://researchweb.iiit.ac.in/~ameya.prabhu/documents/Final_Thesis_V2.pdf) focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
+* Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
 * Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline](/blog/life/reviewing_for_dummies/) I developed for reference.
 * I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
@@ -56,7 +56,7 @@ On the fun side, the jungian personality type of the academic me would be INTP, 
 <details> <summary><a>Abstract</a></summary>
 Deep learning models have evolved remarkably, and are pushing the state-of-the-art in various problemsacross domains.  At the same time, the complexity and the amount of resources these DNNs consumehas greatly increased.  Today’s DNNs are computationally intensive to train and run, especially Con-volutional Neural Networks (CNNs) used for vision applications.  They also occupy a large amount ofmemory and consume a large amount of power during training.  This poses a major roadblock to thedeployment of such networks, especially in real-time applications or on resource-limited devices.  Twomethods have shown promise in compressing CNNs: (i) Binarization and (ii) Pruning. We explore thesetwo methods in this thesis.
 </details>
-[\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/images/Thesis_Ameya.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1eNIW_jKwSaADMQb9chthUE6KgXaqYmUmhvO1cPeofrM/edit?usp=sharing)
+[\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1eNIW_jKwSaADMQb9chthUE6KgXaqYmUmhvO1cPeofrM/edit?usp=sharing)
 
 ### Deep Expander Networks, ECCV 2018 (Oral)
 <details> <summary><a>Abstract</a></summary>
