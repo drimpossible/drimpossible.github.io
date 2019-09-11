@@ -53,17 +53,25 @@ On the fun side, the jungian personality type of the academic me would be INTP, 
 
 ## <a name="publications" id="publications"> Publications
 
-### Exploring Binarization and Pruning for Convolutional Neural Networks
+### Sampling Bias in Deep Active Classification: An Empirical Study [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Active-Sampling-Bias.pdf) [\[Code\]](https://github.com/drimpossible/Sampling-Bias-Active-Learning)
+<details> <summary><a>Abstract</a></summary>
+The exploding cost and time needed for data labeling and model training are bottlenecks for training DNN models on large datasets. Identifying smaller representative data samples with strategies like active learning can help mitigate such bottlenecks. Previous works on active learning in NLP identify the problem of sampling bias in the samples acquired by uncertainty-based querying and develop costly approaches to address it. Using a large empirical study, we demonstrate that active set selection using the posterior entropy of deep models like FastText.zip (FTZ) is robust to sampling biases and to various algorithmic choices (query size and strategies) unlike that suggested by traditional literature. We also show that FTZ based query strategy produces sample sets similar to those from more sophisticated approaches (e.g ensemble net-
+works). Finally, we show the effectiveness of the selected samples by creating tiny high quality datasets, and utilizing them for fast and cheap training of large models. Based on the above, we propose a simple baseline for deep active text classification that outperforms the state-of-the-art. We expect the presented work to be useful and informative for dataset compression and for problems involving active, semi-supervised or online learning scenarios.
+</details>
+
+
+
+### Exploring Binarization and Pruning for Convolutional Neural Networks [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1eNIW_jKwSaADMQb9chthUE6KgXaqYmUmhvO1cPeofrM/edit?usp=sharing)
 <details> <summary><a>Abstract</a></summary>
 Deep learning models have evolved remarkably, and are pushing the state-of-the-art in various problemsacross domains.  At the same time, the complexity and the amount of resources these DNNs consumehas greatly increased.  Today’s DNNs are computationally intensive to train and run, especially Con-volutional Neural Networks (CNNs) used for vision applications.  They also occupy a large amount ofmemory and consume a large amount of power during training.  This poses a major roadblock to thedeployment of such networks, especially in real-time applications or on resource-limited devices.  Twomethods have shown promise in compressing CNNs: (i) Binarization and (ii) Pruning. We explore thesetwo methods in this thesis.
 </details>
-[\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1eNIW_jKwSaADMQb9chthUE6KgXaqYmUmhvO1cPeofrM/edit?usp=sharing)
 
-### Deep Expander Networks, ECCV 2018 (Oral)
+
+### Deep Expander Networks: Efficient Deep Networks from Graph Theory, ECCV 2018 (Oral) [\[Talk\]](https://www.youtube.com/watch?v=0poGlFx1OBU) [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) [\[Code\]](https://github.com/drimpossible/Deep-Expander-Networks) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/AmeyaGirishAnoop_ExpanderECCV.pdf) [\[Poster\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Expander_Poster.pdf)
 <details> <summary><a>Abstract</a></summary>
 Efficient CNN designs like ResNets and DenseNet were proposed to improve accuracy vs efficiency trade-offs. They essentially increased the connectivity, allowing efficient information flow across layers. Inspired by these techniques, we propose to model connections between filters of a CNN using graphs which are simultaneously sparse and well connected. Sparsity results in efficiency while well connectedness can preserve the expressive power of the CNNs. We use a well-studied class of graphs from theoretical computer science that satisfies these properties known as Expander graphs. Expander graphs are used to model connections between filters in CNNs to design networks called X-Nets. We present two guarantees on the connectivity of X-Nets: Each node influences every node in a layer in logarithmic steps, and the number of paths between two sets of nodes is proportional to the product of their sizes. We also propose efficient training and inference algorithms, making it possible to train deeper and wider X-Nets effectively.
 Expander based models give a 4% improvement in accuracy on MobileNet over grouped convolutions, a popular technique, which has the same sparsity but worse connectivity. X-Nets give better performance trade-offs than the original ResNet and DenseNet-BC architectures. We achieve model sizes comparable to state-of-the-art pruning techniques using our simple architecture design, without any pruning. We hope that this work motivates other approaches to utilize results from graph theory to develop efficient network architectures.
 </details>
-[\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) [\[Code\]](https://github.com/drimpossible/Deep-Expander-Networks)
+
 
 ---
