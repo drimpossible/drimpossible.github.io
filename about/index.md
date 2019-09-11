@@ -12,13 +12,13 @@ Table of Contents     [About Me](#biography)     [Highlights](#highlights)
 
 ## <a name="biography" id="biography"></a>About Me
 
-Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". The username was created when in high school, as a battle against the impossible dream of being "Dr. Ameya" (pun intended) and motivation for it. Alas, I didn't think long-term about  this being my online name.
+Hi! I’m Ameya, and since you're reading this: a-mae-Ya. "Ameya" is the sanskrit word "अमेय" meaning "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". This github username was created when in high school, as a battle against the impossible dream of being "Dr. Ameya" (pun intended) and motivation for it.
 
 I like to think about **the future** in general, currently intrigued by intelligent assistance (IA), computational economics, and constitutional law. I want to dedicate my career towards designing principled algorithms to acquire more general notions of "learnability" and help better automating tasks and assisting humans. Serious researchers think it's cute when I talk about constitutional law, price theory, mechanism design, ecorithms, etc. I'm nevertheless amazed by the insights offered by these fields.
 
-Speaking of homegrounds, I aspire to the ideal of "theoretically grounded approaches should go hand-in-hand with challenging practical problems": Principled approaches can accelerate research compared to extensive hit-and-try approaches popular today. Conversely, it's important to make real-world assumptions to model computationally hard problems and side-step worst-case complexity. As [Marx](https://en.wikipedia.org/wiki/Groucho_Marx) once famously said "Those are my principles, and if you don't like them.. well, I have others".
+Speaking of homegrounds, I aspire and propound the ideal of "theoretically grounded approaches should go hand-in-hand with challenging practical problems": Principled approaches can accelerate research compared to extensive hit-and-try approaches popular today. Conversely, it's important to make real-world assumptions to model computationally hard problems and side-step worst-case complexity. As [Marx](https://en.wikipedia.org/wiki/Groucho_Marx) once famously said "Those are my principles, and if you don't like them.. well, I have others".
 
-On the fun side, the jungian personality type of the academic me would be INTP, dominated by Ti and Ne; or my [MTG Color Wheel](https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d) results are dominated by Blue and Red with a White tinge. Also, [a blog I liked](https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks) for meta-discussion about fake frameworks. If this content interests you more, here is the [non-academic me](https://bayesianconspirator.github.io/about/) where you might find more of the same. Welcome to my personal page folks!
+On the fun side, the jungian personality type of the academic me would be INTP, dominated by Ti and Ne; or my [MTG Color Wheel](https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d) results are dominated by Blue and Red with a White tinge. Also, [a blog I liked](https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks) for meta-discussion about fake frameworks. If this last paragraph interests you more than anything above it, here is the [non-academic me](https://bayesianconspirator.github.io/about/) where you might find more of the same. Welcome to my personal page folks!
 
 ## <a name="highlights" id="highlights"></a>Highlights
 
@@ -34,13 +34,14 @@ On the fun side, the jungian personality type of the academic me would be INTP, 
 
 ### 2019
 
+* My research on active learning on text classification [**Sampling Bias in Deep Active Classification: An Empirical Study**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Active-Sampling-Bias.pdf) got accepted at EMNLP 2019. Details [here]() (coming soon).
 * Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
 * Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline](/blog/life/reviewing_for_dummies/) I developed for reference.
 * I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
 ### 2018
 
-* Got a yearlong residency at **Verisk HQ**, to work for the ML group of a NASDAQ 100 financial risk assessment corporation.
+* Got a yearlong residency at **Verisk HQ**, to work for the ML group of a NASDAQ 100 financial risk assessment firm.
 * I attended [**ECCV 2018**](https://eccv2018.org/). Thank you [Google](https://ai.google/research/) for providing full travel-grant!
 * My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral). Details [here]() (coming soon).
 * I completed a research internship at IBM Research to experience industrial research. Got Best Intern Award, Summer '18 for outstanding research at IBM.
