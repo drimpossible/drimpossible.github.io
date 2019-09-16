@@ -9,7 +9,10 @@ date: 2019-03-22
 
 Hi, stranger! Welcome to blog of [Dr. Impossible]({{site.baseurl}}/about).
 
-## Categories
+### Blogposts
+
+[Reviewing Guide for Dummies](/blog/life/reviewing_for_dummies/)
+
 <!--
 [Paper Readings]({{site.baseurl}}/blog/readings)
 

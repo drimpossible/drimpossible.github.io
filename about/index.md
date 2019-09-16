@@ -60,7 +60,6 @@ works). Finally, we show the effectiveness of the selected samples by creating t
 </details>
 
 
-
 ### Exploring Binarization and Pruning for Convolutional Neural Networks [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) [\[Slides\]](https://docs.google.com/presentation/d/1eNIW_jKwSaADMQb9chthUE6KgXaqYmUmhvO1cPeofrM/edit?usp=sharing)
 <details> <summary><a>Abstract</a></summary>
 Deep learning models have evolved remarkably, and are pushing the state-of-the-art in various problemsacross domains.  At the same time, the complexity and the amount of resources these DNNs consumehas greatly increased.  Today’s DNNs are computationally intensive to train and run, especially Con-volutional Neural Networks (CNNs) used for vision applications.  They also occupy a large amount ofmemory and consume a large amount of power during training.  This poses a major roadblock to thedeployment of such networks, especially in real-time applications or on resource-limited devices.  Twomethods have shown promise in compressing CNNs: (i) Binarization and (ii) Pruning. We explore thesetwo methods in this thesis.
@@ -74,4 +73,5 @@ Expander based models give a 4% improvement in accuracy on MobileNet over groupe
 </details>
 
 
+### Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory, WACV 2018 (Oral) [\[PDF\]](https://arxiv.org/abs/1804.03867) [\[Talk\]](https://www.youtube.com/watch?v=QhhRkewA2r0) [\[Slides\]]() [\[Poster\]]() [\[Code\]]() 
 ---
