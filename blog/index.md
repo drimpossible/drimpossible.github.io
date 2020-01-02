@@ -11,7 +11,7 @@ Hi, stranger! Welcome to blog of [Dr. Impossible]({{site.baseurl}}/about).
 
 ### Blogposts
 
-[Reviewing Guide for Dummies](/blog/life/reviewing_for_dummies/)
+[Rewiewing for Dummies](/blog/life/reviewing_for_dummies/)
 
 <!--
 [Paper Readings]({{site.baseurl}}/blog/readings)
