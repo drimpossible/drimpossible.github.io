@@ -9,7 +9,11 @@ date: 2019-03-22
 
 Hi, stranger! Welcome to blog of [Dr. Impossible]({{site.baseurl}}/about).
 
-### Blogposts
+### Continual Learning
+
+
+
+### Life
 
 [Rewiewing for Dummies](/blog/life/reviewing_for_dummies/)
 

@@ -13,22 +13,6 @@ date: 2019-12-26 00:00:00 +0000
 
 One important aspect of research is reviewing, aka, how to evaluate a research paper, and an critical [fake framework](https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks) to guide writing of research papers. I recently reorganized [2] to form a review guideline which I actively refer for ensuring decent evaluatation of papers, and hope that it's useful.
 
-## Remember the audience
-
-Two groups of people will read your review: Area chairs and authors. By understanding what they are looking for and where they are coming from, it is possible to refine your review draft.
-
-### An archetypical area chair
-
-* Senior gatekeepers (Professors/Senior Researchers)
-* Main superpower: Refined intuition by years of experience in this area. They use this intuition/experience to weed out bad papers, and pick valuable ones.
-* How do you contribute: You have a lot of time, which they don't. You can comb through the paper, summarize its contributes and highlight fine grained aspects (advantages and shortcomings).
-
-### An archetypical author
-
-* Main pillars of the community
-* Main superpower: Typically have put in months/years of work. They present their finished work for detailed, fair, and constructive feedback to help decide further steps.
-* How do you contribute: Help guide Weed out the bad cases like hastily written work which cuts corners with evidence, oversells their contribution, omit critical related work. (Attributable to immense competition and inexperience rather than malice.)
-
 ## How to evaluate a paper?
 
 Evaluate aspects of paper and give concrete feedback to make the work better:
