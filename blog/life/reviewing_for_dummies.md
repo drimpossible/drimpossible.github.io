@@ -11,7 +11,7 @@ tags:
 date: 2019-12-26 00:00:00 +0000
 ---
 
-One important aspect of research is reviewing, aka, how to evaluate a research paper, and an critical [fake framework](https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks) to guide writing of research papers. I recently reorganized [2] to form a review guideline which I actively refer for ensuring decent evaluatation of papers, and hope that it's useful.
+One important aspect of research is reviewing, aka, how to evaluate a research paper to guide writing of my research papers. I recently reorganized [2] to form a review guideline which I actively refer for ensuring decent evaluation of papers, given below.
 
 ## How to evaluate a paper?
 
