@@ -32,9 +32,15 @@ On the fun side, the [jungian personality type](https://slatestarcodex.com/2014/
 
 ## <a name="achievements" id="achievements"></a>Achievements
 
+### 2020
+
+* Got oustanding reviewer award for ECCV 2020!
+* My research on issues with continual learning [**Greedy Sampler and Dumb Learner: A Surprisingly Effective Approach for Continual Learning**]() got accepted at ECCV 2020 (Oral) (Acceptance rate: 2\%).
+* Got outstanding reviewer award for CVPR 2020 (Acceptance rate: 4% :P)!
+
 ### 2019
 
-* My research on active learning on text classification [**Sampling Bias in Deep Active Classification: An Empirical Study**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Active-Sampling-Bias.pdf) got accepted at EMNLP 2019. Details [here]() (coming soon).
+* My research on active learning on text classification [**Sampling Bias in Deep Active Classification: An Empirical Study**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Active-Sampling-Bias.pdf) got accepted at EMNLP 2019.
 * Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
 * Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline](/blog/life/reviewing_for_dummies/) I developed for reference.
 * I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
@@ -43,11 +49,11 @@ On the fun side, the [jungian personality type](https://slatestarcodex.com/2014/
 
 * Got a yearlong residency at **Verisk HQ**, to work for the ML group of a NASDAQ 100 financial risk assessment firm.
 * I attended [**ECCV 2018**](https://eccv2018.org/). Thank you [Google](https://ai.google/research/) for providing full travel-grant!
-* My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral). Details [here]() (coming soon).
+* My research on Pruning [**Deep Expander Networks: Efficient Networks from Graph Theory**](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) got accepted at ECCV 2018 (Oral).
 * I completed a research internship at IBM Research to experience industrial research. Got Best Intern Award, Summer '18 for outstanding research at IBM.
 * I attended [**WACV 2018**](http://wacv18.wacv.net/). Thank you [CVIT](http://cvit.iiit.ac.in/) for providing full-funding!
-* My research on Hybrid Binary Networks [**Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory**](https://arxiv.org/abs/1804.03867) got accepted at WACV 2018 (Oral). Details [here]() (coming soon).
-* My research on Distribution-aware Binary Networks [**Distribution-Aware Binarization of Neural Networks for Sketch Recognition**](https://arxiv.org/abs/1804.02941) got accepted at WACV 2018 (Oral). Details [here]() (coming soon).
+* My research on Hybrid Binary Networks [**Hybrid Binary Networks: Optimizing for Accuracy, Efficiency and Memory**](https://arxiv.org/abs/1804.03867) got accepted at WACV 2018 (Oral). 
+* My research on Distribution-aware Binary Networks [**Distribution-Aware Binarization of Neural Networks for Sketch Recognition**](https://arxiv.org/abs/1804.02941) got accepted at WACV 2018 (Oral).
 * Got selected for Dean's Merit List for Academic Excellence Award- 2015, 2016, 2017 & 2018
 * Got Undergraduate Research Award for Outstanding Publications in Undergraduate years.
 

@@ -7,11 +7,7 @@ dsq_thread_id:
 date: 2019-03-22
 ---
 
-Hi, stranger! Welcome to blog of [Dr. Impossible]({{site.baseurl}}/about).
-
-### Continual Learning
-
-
+Hi, stranger! Welcome to blog of [Dr. Impossible]({{site.baseurl}}/about). 
 
 ### Life
 
