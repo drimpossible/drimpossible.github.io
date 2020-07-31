@@ -34,15 +34,16 @@ On the fun side, the [jungian personality type](https://slatestarcodex.com/2014/
 
 ### 2020
 
-* Got oustanding reviewer award for ECCV 2020!
-* My research on issues with continual learning [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]() got accepted at ECCV 2020 (Oral) (Acceptance rate: 2\%).
-* Got outstanding reviewer award for CVPR 2020 (Acceptance rate: 4% :P)!
+* Served as reviewer for ECCV 2020. Got selected for the oustanding reviewer award!
+* My recent work on problems with continual learning [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**]() got accepted at ECCV 2020 (Oral) (Acceptance rate: 2%).
+* Served as reviewer for CVPR 2020. Got selected for the outstanding reviewer award!
 
 ### 2019
 
-* My research on active learning on text classification [**Sampling Bias in Deep Active Classification: An Empirical Study**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Active-Sampling-Bias.pdf) got accepted at EMNLP 2019.
+* My recent work on problems with active learning [**Sampling Bias in Deep Active Classification: An Empirical Study**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Active-Sampling-Bias.pdf) got accepted at EMNLP 2019.
+* Served as a reviewer for ICCV 2019 and AAAI 2019.
 * Completed my bachelors and masters in computer science at [IIIT-Hyderabad](http://www.iiit.ac.in). [**My thesis**](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/Thesis.pdf) focused on developing principled approaches for sparse connectivity (pruning) and methods to exploit fast-binary convolutions for building efficient but accurate deep networks.
-* Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline](/blog/life/reviewing_for_dummies/) I developed for reference.
+* Starting reviewing independently. Served as a reviewer for CVPR 2019. Got outstanding reviewer award for CVPR 2019! Here is the [reviewer guideline](/blog/life/reviewing_for_dummies/) I developed for reference.
 * I'm pursuing a PhD in Machine Learning at University of Oxford, one small step towards achieving my big goal.
 
 ### 2018
