@@ -12,7 +12,7 @@ Research Interests:  [Continual Learning](#lifelonglearning)   [Binarization 
 
 ### <a name="lifelonglearning" id="lifelonglearning"> Continual Learning
 
-GDumb: A Simple Approach that Questions Our Progress in Continual Learning<br/>Ameya Prabhu, Philip H.S. Torr, Puneet K. Dokania<br/> In ECCV 2020 (Oral) <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb.pdf) [\[Code\]](https://github.com/drimpossible/GDumb) [\[Talk\]]() [\[Teaser\]]() [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides.pdf)
+GDumb: A Simple Approach that Questions Our Progress in Continual Learning<br/>Ameya Prabhu, Philip H.S. Torr, Puneet K. Dokania<br/> In ECCV 2020 (Oral) <br/> [\[PDF\]](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf) [\[Code\]](https://github.com/drimpossible/GDumb) [\[Talk\]](https://www.youtube.com/watch?v=iHCy_9guZMI) [\[Teaser\]](https://www.youtube.com/watch?v=F37GNpRLUrM) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides.pdf)
 
 ---
 ### <a name="activelearning" id="activelearning"> Uncertainty & Active Learning
@@ -27,9 +27,9 @@ Do We Need Supervision in Multi-Object Tracking? <br/> Shyamgopal Karthik, Ameya
 ---
 ### <a name="netcompress" id="netcompress"> Binarization & Pruning
 
-Compression Beyond Binarization with Pruning: Structured Ternary Quantization <br/> Aurobindo Munagala, Ameya Prabhu, Anoop Namboodiri <br/> In BMVC 2020 <br/> [\[PDF\]]() [\[Code\]]() [\[Talk\]]() [\[Teaser\]]() [\[Slides\]]()
+STQ-Nets: Unifying Network Binarization and Structured Pruning <br/> Aurobindo Munagala, Ameya Prabhu, Anoop Namboodiri <br/> In BMVC 2020 <br/> [\[PDF\]](https://www.bmvc2020-conference.com/assets/papers/0113.pdf) [\[Talk & Slides\]](https://www.bmvc2020-conference.com/conference/papers/paper_0113.html)
 
-Exploring Binarization and Pruning for Convolutional Neural Networks <br/> Ameya Prabhu  <br/> In Master's Thesis, IIIT-H <br/>  [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/ms_thesis.pdf) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/ms_thesis_slides.pdf)
+Exploring Binarization and Pruning for Convolutional Neural Networks <br/> Ameya Prabhu  <br/> Master's Thesis, IIIT-H <br/>  [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/ms_thesis.pdf) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/ms_thesis_slides.pdf)
 
 Deep Expander Networks: Efficient Deep Networks from Graph Theory, ECCV 2018 (Oral)  <br/> Ameya Prabhu*, Girish Varma*, Anoop Namboodiri  <br/> In ECCV 2018 (Oral) <br/> [\[PDF\]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.pdf) [\[Code\]](https://github.com/drimpossible/Deep-Expander-Networks) [\[Talk\]](https://www.youtube.com/watch?v=0poGlFx1OBU)  [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/expander_slides.pdf) [\[Poster\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/expander_poster.pdf)
 
