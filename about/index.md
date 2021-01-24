@@ -14,11 +14,11 @@ Table of Contents     [About Me](#biography)     [Highlights](#highlights)
 
 Hi! I’m Ameya, and since you're reading this: a-may-yeah (as in __a__ book, __may__ I?, __yeah__ sure!). "Ameya" is the sanskrit word "अमेय" approximately translating to "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". This github username was created when in high school, as a battle against the impossible dream of being "Dr. Ameya" (pun intended) and motivation for it.
 
-I like to think about **the future** in general, currently intrigued by intelligent assistance (IA) with applications in computational economics, automated theorem provers, innovations in social policy and constitutional law. I want to dedicate my career towards designing principled algorithms to acquire more general notions of "learnability" and help better automating tasks (like proving tedious theorems) and also assist humans for other stuff. Serious researchers think it's cute when I talk about theories of market matching, social cognition, mechanism design,  etc. I'm wayy too  excited by cool topics and their insights.
+I like to think about **the future** in general, currently intrigued by intelligent assistance (IA) with applications in computational economics, automated theorem provers, innovations in social policy and constitutional law. I want to dedicate my career towards designing principled algorithms to acquire more general notions of "learnability" and help better automating tasks (like proving tedious theorems) and also assist humans for other stuff. Serious researchers think it's cute when I talk about theories of market matching, social cognition, mechanism design,  etc. I love them anyways!
 
 Speaking of homegrounds, I aspire to an the ideal of "theoretically grounded approaches should go hand-in-hand with challenging practical problems" in my research: Principled approaches can accelerate research compared to extensive hit-and-try approaches popular today. Conversely, it's important to make real-world assumptions to model computationally hard problems and side-step worst-case complexity. As [Marx](https://en.wikipedia.org/wiki/Groucho_Marx) once famously said "Those are my principles, and if you don't like them.. well, I have others".
 
-On the fun side, I love [fake frameworks](https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks), afterall ontologies make things seem real. On that note, I do read a lot [of](https://www.lesswrong.com/) [aspiring](https://slatestarcodex.com/)-[rationalist](https://www.overcomingbias.com/), [effective](https://forum.effectivealtruism.org/)-[altruism](https://80000hours.org/), [pop](https://marginalrevolution.com/)-[economics](https://www.econtalk.org/) blogrolls. Since we're wayy into categorizing, the [jungian personality type](https://slatestarcodex.com/2014/05/27/on-types-of-typologies/) of the academic me has consistently been INTP, dominated by Ti and Ne; or my [MTG Color Wheel](https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d) results have been dominated by Blue and Red with a White tinge. If this last paragraph interests you more than anything above it, here is the [non-academic me](https://bayesiankitten.github.io/about/) where you might find more of the same. Welcome to my personal page folks!
+On the fun side, I love [fake frameworks](https://www.lesswrong.com/posts/wDP4ZWYLNj7MGXWiW/in-praise-of-fake-frameworks), afterall ontologies make things seem real. On that note, I do read a lot [of](https://www.lesswrong.com/) [aspiring](https://slatestarcodex.com/)-[rationalist](https://www.overcomingbias.com/), [effective](https://forum.effectivealtruism.org/)-[altruism](https://80000hours.org/), [pop](https://marginalrevolution.com/)-[economics](https://www.econtalk.org/) blogrolls. Now, some of these blogs lean right, while others lean left but I'm staunchly apolitical. That's simply because no serious political following in issues I deeply care about such as animal welfare, digital privacy, slow science or the free and open source movements. Since we're wayy into categorizing, the [jungian personality type](https://slatestarcodex.com/2014/05/27/on-types-of-typologies/) of the academic me has consistently been INTP, dominated by Ti and Ne; or my [MTG Color Wheel](https://medium.com/s/story/the-mtg-color-wheel-c9700a7cf36d) results have been dominated by Blue and Red with a White tinge. If this last paragraph interests you more than anything above it, here is the [non-academic me](https://bayesiankitten.github.io/about/) where you might find more of the same. Welcome to my personal page folks!
 
 ## <a name="highlights" id="highlights"></a>Highlights
 
@@ -33,13 +33,18 @@ On the fun side, I love [fake frameworks](https://www.lesswrong.com/posts/wDP4ZW
 
 ## <a name="achievements" id="achievements"></a>Achievements
 
+### 2021
+
+* Shyam, the first master's student I worked with is pursuing a PhD in University of Amsterdam! Congratulations Shyam!
+* Recent work with Shyam on simple, scalable ways of incorporating heirarchies to incorporate a sense of 'degree of badness' of mistakes in deep networks [**Making Better Mistakes in Deep Networks via Likelihood Manipulation at Test-time**] got accepted in ICLR 2021!
+
 ### 2020
 
-* Recent work with Aurobindo on effectively merging pruning and binarization paradigms [**STQ-Nets: Unifying Network Binarization and Structured Pruning**](https://www.bmvc2020-conference.com/assets/papers/0113.pdf) got accepted in BMVC 2020.
+* Recent work with Aurobindo on effectively merging pruning and binarization paradigms [**STQ-Nets: Unifying Network Binarization and Structured Pruning**](https://www.bmvc2020-conference.com/assets/papers/0113.pdf) got accepted in BMVC 2020!
 * Served as reviewer for ECCV 2020. Got selected for the [oustanding reviewer award](https://eccv2020.eu/outstanding-reviewers/)!
 * My recent work on problems with continual learning [**GDumb: A Simple Approach that Questions Our Progress in Continual Learning**](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf) got accepted at ECCV 2020 (Oral)
 * Served as reviewer for CVPR 2020. Got selected for the [outstanding reviewer award](http://cvpr2020.thecvf.com/reviewer-acknowledgements)!
-* I'm pursuing a DPhil focused on Machine Learning at University of Oxford, one small step towards achieving my big goal
+* I'm pursuing a PhD focused on Machine Learning at University of Oxford, one small step towards achieving my big goal!
 
 ### 2019
 
