@@ -12,7 +12,7 @@ Research Interests:  [Continual Learning](#lifelonglearning)   [Binarization 
 
 ### <a name="lifelonglearning" id="lifelonglearning"> Continual Learning
 
-GDumb: A Simple Approach that Questions Our Progress in Continual Learning<br/>Ameya Prabhu, Philip H.S. Torr, Puneet K. Dokania<br/> In ECCV 2020 (Oral) <br/> [\[PDF\]](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf) [\[Code\]](https://github.com/drimpossible/GDumb) [\[Talk\]](https://www.youtube.com/watch?v=iHCy_9guZMI) [\[Teaser\]](https://www.youtube.com/watch?v=F37GNpRLUrM) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides.pdf)
+GDumb: A Simple Approach that Questions Our Progress in Continual Learning<br/>Ameya Prabhu, Philip H.S. Torr, Puneet K. Dokania<br/> In ECCV 2020 (Oral) <br/> [\[PDF\]](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf) [\[Code\]](https://github.com/drimpossible/GDumb) [\[Talk\]](https://www.youtube.com/watch?v=iHCy_9guZMI) [\[Teaser\]](https://www.youtube.com/watch?v=F37GNpRLUrM) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides.pdf) [\[Slides (V2)\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides_improved.pdf)
 
 ---
 ### <a name="activelearning" id="activelearning"> Uncertainty & Active Learning
