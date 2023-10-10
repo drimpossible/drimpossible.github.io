@@ -12,6 +12,19 @@ Research Interests:  [Continual Learning](#lifelonglearning)   [Binarization 
 
 ### <a name="lifelonglearning" id="lifelonglearning"> Continual Learning
 
+From Categories to Classifier: Name-Only Continual Learning by Exploring the Web<br/>Ameya Prabhu*, Hasan Abed Al Kader Hammoud*, Ser-Nam Lim, Bernard Ghanem,
+Philip Torr, Adel Bibi<br/> Technical Report, September 2023. Latest Update: N/A <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/a4f19ca2e0b95719f647bdf600f24b8bb6be3ab8/documents/Category2Classifier.pdf) [\[Code\]](https://github.com/drimpossible/C2C) \[Talk\] \[Slides\]
+
+Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?<br/>Hasan Abed Al Kader Hammoud*, Ameya Prabhu*, Ser-Nam Lim, Bernard Ghanem,
+Philip Torr, Adel Bibi<br/> In ICCV 2023 <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/41f547b991fc99d1f733df8ab8528aa552b74a1f/documents/EvalOCL.pdf) [\[Code\]](https://github.com/drimpossible/EvalOCL) [\[Talk\]](https://www.youtube.com/watch?v=H8Cyh-7xltg) \[Slides\]
+
+Computationally Budgeted Continual Learning: What Does Matter?<br/>Ameya Prabhu*, Hasan Abed Al Kader Hammoud*, Puneet K. Dokania, Philip H.S. Torr, Ser-Nam Lim, Bernard Ghanem,
+ Adel Bibi<br/> In CVPR 2023 <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/41f547b991fc99d1f733df8ab8528aa552b74a1f/documents/BudgetCL.pdf) [\[Code\]](https://github.com/drimpossible/BudgetCL) [\[Talk\]](https://www.youtube.com/watch?v=V-mxeWZjCUo) [\[Slides\]]()
+
+Online Continual Learning Without the Storage Constraint<br/>Ameya Prabhu, Zhipeng Cai, Puneet Dokania, Philip Torr, Vladlen Koltun, Ozan Sener<br/> Technical Report, May 2022. Latest Update: September 2023 <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/41f547b991fc99d1f733df8ab8528aa552b74a1f/documents/ACM.pdf) [\[Code\]](https://github.com/drimpossible/ACM) \[Talk\] \[Slides\]
+
+Real-Time Evaluation in Online Continual Learning: A New Hope<br/>Yasir Ghunaim*, Adel Bibi*, Kumail Alhamoud, Motasem Alfarra, Hasan Abed Al Kader Hammoud, Ameya Prabhu, Philip H.S. Torr, Bernard Ghanem<br/> In CVPR 2023 (Oral) <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/41f547b991fc99d1f733df8ab8528aa552b74a1f/documents/RealOCL.pdf) [\[Code\]](https://github.com/Yasir-Ghunaim/RealtimeOCL) [\[Talk\]](https://www.youtube.com/watch?v=3nmRtFkF5fw&ab_channel=IVULKAUST) \[Slides\] [\[Poster\]](https://drive.google.com/file/d/1s-QxuqaPgL_eMwfv4hf9DkjKYWL4sOjv/view?usp=share_link)
+
 GDumb: A Simple Approach that Questions Our Progress in Continual Learning<br/>Ameya Prabhu, Philip H.S. Torr, Puneet K. Dokania<br/> In ECCV 2020 (Oral) <br/> [\[PDF\]](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf) [\[Code\]](https://github.com/drimpossible/GDumb) [\[Talk\]](https://www.youtube.com/watch?v=iHCy_9guZMI) [\[Teaser\]](https://www.youtube.com/watch?v=F37GNpRLUrM) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides.pdf) [\[Slides (V2)\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides_improved.pdf)
 
 ---
