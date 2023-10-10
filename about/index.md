@@ -5,8 +5,7 @@ layout: page
 permalink: "/"
 dsq_thread_id:
 ---
-Table of Contents     [About Me](#biography)     [Highlights](#highlights)     [Research](#research)    
- [Projects](#projects)     [Publications](#publications)
+Table of Contents     [About Me](#biography)     [Updates](#updates)          [Publications](/publications)
 
 ---
 
@@ -29,7 +28,7 @@ On the fun side, I love [fake frameworks](https://www.lesswrong.com/posts/wDP4ZW
 </tr>
 </table>
 
-## <a name="achievements" id="achievements"></a>Achievements
+## <a name="updates" id="updates"></a>Updates
 
 ### 2021
 
