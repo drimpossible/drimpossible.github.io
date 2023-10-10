@@ -5,10 +5,9 @@ layout: page
 permalink: "/publications"
 dsq_thread_id:
 ---
-Research Interests:  [Continual Learning](#lifelonglearning)   [Binarization & Pruning](#netcompress)     [Uncertainty & Active Learning](#activelearning)   [Unsupervised Learning](#unsuplearn)  [Others](#uncategorized)    
+Research Interests:  [Continual Learning](#lifelonglearning) [Binarization & Pruning](#netcompress) [Active Learning](#activelearning) [Multi-Object Tracking](#unsuplearn) [Hierarchy-Aware Classification](#bettermistakes) [Others](#uncategorized)    
 
 ---
-
 
 ### <a name="lifelonglearning" id="lifelonglearning"> Continual Learning
 
@@ -28,14 +27,22 @@ Online Continual Learning Without the Storage Constraint<br/>Ameya Prabhu, Zhipe
 GDumb: A Simple Approach that Questions Our Progress in Continual Learning<br/>Ameya Prabhu, Philip H.S. Torr, Puneet K. Dokania<br/> In ECCV 2020 (Oral) <br/> [\[PDF\]](https://www.robots.ox.ac.uk/~tvg/publications/2020/gdumb.pdf) [\[Code\]](https://github.com/drimpossible/GDumb) [\[Talk\]](https://www.youtube.com/watch?v=iHCy_9guZMI) [\[Teaser\]](https://www.youtube.com/watch?v=F37GNpRLUrM) [\[Slides\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides.pdf) [\[Slides (V2)\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/gdumb_slides_improved.pdf)
 
 ---
-### <a name="activelearning" id="activelearning"> Uncertainty & Active Learning
+### <a name="activelearning" id="activelearning"> Uncertainty Estimation & Active Learning
+
+CLActive: Episodic Memories for Rapid Active Learning <br/> Sri Aurobindo Munagala, Sidhant Subramanian, Shyamgopal Karthik, Ameya Prabhu, Anoop Namboodiri <br/> In CoLLAs 2022 <br/> [\[PDF\]](https://proceedings.mlr.press/v199/munagala22a.html) 
 
 Sampling Bias in Deep Active Classification: An Empirical Study <br/> Ameya Prabhu, Charles Dognin, Maneesh Singh <br/> In EMNLP 2019 <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/active_sampling_bias.pdf) [\[Code\]](https://github.com/drimpossible/Sampling-Bias-Active-Learning) [\[Poster\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/active_sampling_bias_poster.pdf)
 
 ---
-### <a name="unsuplearn" id="unsuplearn"> Unsupervised Learning
+### <a name="bettermistakes" id="bettermistakes"> Heirarchy-Aware Classification for Making Better Mistakes
 
-Simple Unsupervised Multi-Object Tracking <br/> Shyamgopal Karthik, Ameya Prabhu, Vineet Gandhi <br/> Arxiv <br/> [\[PDF\]](https://arxiv.org/abs/2006.02609) [\[Code\]]()
+No Cost Likelihood Manipulation at Test Time for Making Better Mistakes in Deep Networks <br/> Shyamgopal Karthik, Ameya Prabhu, Puneet K. Dokania, Vineet Gandhi <br/> In ICLR 2021 <br/> [\[PDF\]](https://openreview.net/forum?id=193sEnKY1ij) [\[Code\]](https://github.com/sgk98/CRM-Better-Mistakes)
+
+---
+### <a name="unsuplearn" id="unsuplearn"> Multi-Object Tracking
+
+Simple Unsupervised Multi-Object Tracking <br/> Shyamgopal Karthik, Ameya Prabhu, Vineet Gandhi <br/> In Arxiv <br/> [\[PDF\]](https://arxiv.org/abs/2006.02609) [\[Code\]](https://github.com/sgk98/SimpleMOT)
+
 
 ---
 ### <a name="netcompress" id="netcompress"> Binarization & Pruning
