@@ -41,7 +41,7 @@ No Cost Likelihood Manipulation at Test Time for Making Better Mistakes in Deep 
 ---
 ### <a name="unsuplearn" id="unsuplearn"> Multi-Object Tracking
 
-Simple Unsupervised Multi-Object Tracking <br/> Shyamgopal Karthik, Ameya Prabhu, Vineet Gandhi <br/> In Arxiv <br/> [\[PDF\]](https://arxiv.org/abs/2006.02609) [\[Code\]](https://github.com/sgk98/SimpleMOT)
+Simple Unsupervised Multi-Object Tracking <br/> Shyamgopal Karthik, Ameya Prabhu, Vineet Gandhi <br/> Technical Report, June 2020. Latest Update: June 2020 <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/956e70127df5a42fdd3ccef91baa706aa9bc969d/documents/SimpleReID.pdf) [\[Code\]](https://github.com/sgk98/SimpleMOT)
 
 
 ---
