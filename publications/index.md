@@ -5,7 +5,7 @@ layout: page
 permalink: "/publications"
 dsq_thread_id:
 ---
-Research Interests:  [Continual Learning](#lifelonglearning) [Binarization & Pruning](#netcompress) [Active Learning](#activelearning) [Multi-Object Tracking](#unsuplearn) [Hierarchy-Aware Classification](#bettermistakes) [Others](#uncategorized)    
+Research Interests:  [Continual Learning](#lifelonglearning) [Binarization & Pruning](#netcompress) [Active Learning](#activelearning) [Multi-Object Tracking](#unsuplearn) [Making Better Mistakes](#bettermistakes) [Others](#uncategorized)    
 
 ---
 
@@ -34,7 +34,9 @@ CLActive: Episodic Memories for Rapid Active Learning <br/> Sri Aurobindo Munaga
 Sampling Bias in Deep Active Classification: An Empirical Study <br/> Ameya Prabhu, Charles Dognin, Maneesh Singh <br/> In EMNLP 2019 <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/active_sampling_bias.pdf) [\[Code\]](https://github.com/drimpossible/Sampling-Bias-Active-Learning) [\[Poster\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/active_sampling_bias_poster.pdf)
 
 ---
-### <a name="bettermistakes" id="bettermistakes"> Heirarchy-Aware Classification for Making Better Mistakes
+### <a name="bettermistakes" id="bettermistakes"> Making Better Mistakes
+
+Inverse Scaling: When Bigger Isn't Better <br/> Ian R. McKenzie, Alexander Lyzhov, Michael Martin Pieler, Alicia Parrish, Aaron Mueller, Ameya Prabhu, Euan McLean, Xudong Shen, Joe Cavanagh, Andrew George Gritsevskiy, Derik Kauffman, Aaron T. Kirtland, Zhengping Zhou, Yuhui Zhang, Sicong Huang, Daniel Wurgaft, Max Weiss, Alexis Ross, Gabriel Recchia, Alisa Liu, Jiacheng Liu, Tom Tseng, Tomasz Korbak, Najoung Kim, Samuel R. Bowman, Ethan Perez <br/> In TMLR 2023 <br/> [\[PDF\]](https://openreview.net/forum?id=DwgRm72GQF) [\[Code\]](https://github.com/inverse-scaling/prize)
 
 No Cost Likelihood Manipulation at Test Time for Making Better Mistakes in Deep Networks <br/> Shyamgopal Karthik, Ameya Prabhu, Puneet K. Dokania, Vineet Gandhi <br/> In ICLR 2021 <br/> [\[PDF\]](https://openreview.net/forum?id=193sEnKY1ij) [\[Code\]](https://github.com/sgk98/CRM-Better-Mistakes)
 
