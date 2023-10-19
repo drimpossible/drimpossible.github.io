@@ -5,7 +5,7 @@ layout: page
 permalink: "/publications"
 dsq_thread_id:
 ---
-Research Interests:  [Continual Learning](#lifelonglearning) [Binarization & Pruning](#netcompress) [Active Learning](#activelearning) [Multi-Object Tracking](#unsuplearn) [Making Better Mistakes](#bettermistakes) [Others](#uncategorized)    
+Research Interests:  [Continual Learning](#lifelonglearning)       [Binarization & Pruning](#netcompress)       [Active Learning](#activelearning)       [Multi-Object Tracking](#unsuplearn) [Making Better Mistakes](#bettermistakes)       [Others](#uncategorized)    
 
 ---
 
