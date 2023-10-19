@@ -5,7 +5,7 @@ layout: page
 permalink: "/"
 dsq_thread_id:
 ---
-Table of Contents     [About Me](#biography)     [Updates](#updates)          [Publications](/publications)             [Talks and Blogs](/talks_and_blogs)
+Table of Contents     [About Me](#biography)         [Updates](#updates) 
 
 ---
 
