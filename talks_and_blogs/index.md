@@ -13,4 +13,4 @@ Computationally Efficient Generalization without Forgetting on Streaming Data <b
 
 ### <a name="blogs" id="blogs"> Blogs
 
-[Collection of Tips for Better Reviewing](/blog/reviewing_for_dummies/)
+[Collection of Tips for Better Reviewing](/talks_and_blogs/reviewing_tutorial/)
