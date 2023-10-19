@@ -13,7 +13,7 @@ date: 2023-10-18
 
 
 
-Computationally Efficient Generalization without Forgetting on Streaming Data <br/> Given at: Computer Vision Talks, KU Leuven (Tinne Tutleyaar's Group), University of Tubingen (Matthias Bethge's Group)<br/> \[Slides\](https://github.com/drimpossible/drimpossible.github.io/blob/f4895615a95286bbb7283022bc84a8342a283a56/documents/Talk_PhD_Summary.pdf)
+Computationally Efficient Generalization without Forgetting on Streaming Data <br/> Slightly Different Versions at: Computer Vision Talks, KU Leuven (Tinne Tutleyaar's Group), University of Tubingen (Matthias Bethge's Group)<br/> [\[Youtube\]](https://www.youtube.com/watch?v=V-mxeWZjCUo​) [\[Slides (Updated)\]](https://github.com/drimpossible/drimpossible.github.io/blob/f4895615a95286bbb7283022bc84a8342a283a56/documents/Talk_PhD_Summary.pdf)
 
 
 ### <a name="blogs" id="blogs"> Broader Blogs
