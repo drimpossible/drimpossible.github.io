@@ -10,12 +10,15 @@ Interests: &nbsp;&nbsp;&nbsp; [Data-Centric ML](#datacentric) &nbsp;&nbsp;&nbsp;
 ---
 ### <a name="datacentric" id="datacentric"> Data-Centric Machine Learning
 
-**Corrective Machine Unlearning**, DMLR-W, ICLR 2024 <br/> Shashwat Goel*, *Ameya Prabhu*\*, Philip Torr, Ponnurangam Kumaraguru, Amartya Sanyal <br/> [\[PDF\]](https://arxiv.org/abs/2402.14015) [\[Code\]]() \[Talk\] \[Slides\]
+**Lifelong Benchmarks: Efficient Model Evaluation in an Era of Rapid Progress**, DMLR-W, ICLR 2024 <br/> *Ameya Prabhu*\*, Vishaal Udandarao*, Philip Torr, Matthias Bethge, Adel Bibi, Samuel Albanie <br/>  [\[PDF\]](https://arxiv.org/abs/2402.19472) [\[Code\]]() [\[Data\]]() [\[Twitter 🧵\]](https://twitter.com/vishaal_urao/status/1768668454947586143) \[Talk\] \[Slides\]
+
+**Corrective Machine Unlearning**, DMLR-W, ICLR 2024 <br/> Shashwat Goel*, *Ameya Prabhu*\*, Philip Torr, Ponnurangam Kumaraguru, Amartya Sanyal <br/> [\[PDF\]](https://arxiv.org/abs/2402.14015) [\[Code\]]() [\[Twitter 🧵\]](https://twitter.com/ShashwatGoel7/status/1760911396034793831) \[Talk\] \[Slides\]
 
 **Inverse Scaling: When Bigger Isn't Better**, TMLR 2023 <br/> Ian R. McKenzie, Alexander Lyzhov, Michael Martin Pieler, Alicia Parrish, Aaron Mueller, *Ameya Prabhu*, Euan McLean, Xudong Shen, Joe Cavanagh, Andrew George Gritsevskiy, Derik Kauffman, Aaron T. Kirtland, Zhengping Zhou, Yuhui Zhang, Sicong Huang, Daniel Wurgaft, Max Weiss, Alexis Ross, Gabriel Recchia, Alisa Liu, Jiacheng Liu, Tom Tseng, Tomasz Korbak, Najoung Kim, Samuel R. Bowman, Ethan Perez <br/> [\[PDF\]](https://openreview.net/forum?id=DwgRm72GQF) [\[Code\]](https://github.com/inverse-scaling/prize)
+ [\[Twitter 🧵\]](https://twitter.com/EthanJPerez/status/1671222828518227968) [\[Blogpost\]](https://www.lesswrong.com/posts/eqxqgFxymP8hXDTt5/announcing-the-inverse-scaling-prize-usd250k-prize-pool)
 
 **From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**, DMLR-W, ICLR 2024 <br/>*Ameya Prabhu*\*, Hasan Abed Al Kader Hammoud*, Ser-Nam Lim, Bernard Ghanem,
-Philip Torr, Adel Bibi <br/> [\[PDF\]](https://arxiv.org/abs/2311.11293) \[Code\] \[Talk\] \[Slides\]
+Philip Torr, Adel Bibi <br/> [\[PDF\]](https://arxiv.org/abs/2311.11293) \[Code\] [\[Twitter 🧵\]](https://twitter.com/hammh0a/status/1756602046629794170) [\[Blogpost\]](https://hammoudhasan.medium.com/paper-explained-from-categories-to-classifier-name-only-continual-learning-by-exploring-the-web-ad0db41020bf) \[Talk\] \[Slides\]
 
 **Sampling Bias in Deep Active Classification: An Empirical Study**, EMNLP 2019 <br/> *Ameya Prabhu*\*, Charles Dognin*, Maneesh Singh <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/active_sampling_bias.pdf) [\[Code\]](https://github.com/drimpossible/Sampling-Bias-Active-Learning) [\[Poster\]](https://github.com/drimpossible/drimpossible.github.io/blob/master/documents/active_sampling_bias_poster.pdf)
 
@@ -24,7 +27,7 @@ Philip Torr, Adel Bibi <br/> [\[PDF\]](https://arxiv.org/abs/2311.11293) \[Code\
 
 **RanDumb: A Simple Approach that Questions the Efficacy of Continual Representation Learning**, Arxiv <br/> Ameya Prabhu*, Shiven Sinha*, Ponnurangam Kumaraguru, Philip HS Torr, Ozan Sener, Puneet K Dokania <br/> Technical Report, February 2024 <br/> [\[PDF\]](https://arxiv.org/abs/2402.08823) [\[Code\]](https://github.com/drimpossible/C2C) \[Talk\] \[Slides\]
 
-**No Cost Likelihood Manipulation at Test Time for Making Better Mistakes in Deep Networks**, ICLR 2021 <br/> Shyamgopal Karthik, *Ameya Prabhu*, Puneet K. Dokania, Vineet Gandhi <br/> [\[PDF\]](https://openreview.net/forum?id=193sEnKY1ij) [\[Code\]](https://github.com/sgk98/CRM-Better-Mistakes)
+**No Cost Likelihood Manipulation at Test Time for Making Better Mistakes in Deep Networks**, ICLR 2021 <br/> Shyamgopal Karthik, *Ameya Prabhu*, Puneet K. Dokania, Vineet Gandhi <br/> [\[PDF\]](https://openreview.net/forum?id=193sEnKY1ij) [\[Code\]](https://github.com/sgk98/CRM-Better-Mistakes) [\[Talk & Slides\]](https://iclr.cc/virtual/2021/poster/3041)
 
 **Simple Unsupervised Multi-Object Tracking**, Arxiv <br/> Shyamgopal Karthik, *Ameya Prabhu*, Vineet Gandhi <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/956e70127df5a42fdd3ccef91baa706aa9bc969d/documents/SimpleReID.pdf) [\[Code\]](https://github.com/sgk98/SimpleMOT)
 
@@ -35,7 +38,7 @@ Philip Torr, Adel Bibi <br/> [\[PDF\]](https://arxiv.org/abs/2311.11293) \[Code\
 ---
 ### <a name="unlearning" id="unlearning"> Machine Unlearning
 
-**Corrective Machine Unlearning**, DMLR-W, ICLR 2024 <br/> Shashwat Goel*, *Ameya Prabhu*\*, Philip Torr, Ponnurangam Kumaraguru, Amartya Sanyal <br/> In DMLR Workshop, ICLR 2024 <br/> [\[PDF\]]() [\[Code\]]() \[Talk\] \[Slides\]
+**Corrective Machine Unlearning**, DMLR-W, ICLR 2024 <br/> Shashwat Goel*, *Ameya Prabhu*\*, Philip Torr, Ponnurangam Kumaraguru, Amartya Sanyal <br/> [\[PDF\]](https://arxiv.org/abs/2402.14015) [\[Code\]]() [\[Twitter 🧵\]](https://twitter.com/ShashwatGoel7/status/1760911396034793831) \[Talk\] \[Slides\]
 
 **Towards adversarial evaluations for inexact machine unlearning**, Arxiv <br/> Shashwat Goel*, *Ameya Prabhu*\*, Amartya Sanyal, Ser-Nam Lim, Philip Torr, Ponnurangam Kumaraguru <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/a4f19ca2e0b95719f647bdf600f24b8bb6be3ab8/documents/Category2Classifier.pdf) [\[Code\]](https://github.com/drimpossible/C2C) \[Talk\] \[Slides\]
 
@@ -44,8 +47,8 @@ Philip Torr, Adel Bibi <br/> [\[PDF\]](https://arxiv.org/abs/2311.11293) \[Code\
 
 **RanDumb: A Simple Approach that Questions the Efficacy of Continual Representation Learning**, Arxiv <br/> *Ameya Prabhu*\*, Shiven Sinha*, Ponnurangam Kumaraguru, Philip HS Torr, Ozan Sener, Puneet K Dokania <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/a4f19ca2e0b95719f647bdf600f24b8bb6be3ab8/documents/Category2Classifier.pdf) [\[Code\]](https://github.com/drimpossible/C2C) \[Talk\] \[Slides\]
 
-**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**, DMLR-W, ICLR 2024 <br/>*Ameya Prabhu*\*, Hasan Abed Al Kader Hammoud\*, Ser-Nam Lim, Bernard Ghanem,
-Philip Torr, Adel Bibi <br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/a4f19ca2e0b95719f647bdf600f24b8bb6be3ab8/documents/Category2Classifier.pdf) [\[Code\]](https://github.com/drimpossible/C2C) \[Talk\] \[Slides\]
+**From Categories to Classifier: Name-Only Continual Learning by Exploring the Web**, DMLR-W, ICLR 2024 <br/>*Ameya Prabhu*\*, Hasan Abed Al Kader Hammoud*, Ser-Nam Lim, Bernard Ghanem,
+Philip Torr, Adel Bibi <br/> [\[PDF\]](https://arxiv.org/abs/2311.11293) \[Code\] [\[Twitter 🧵\]](https://twitter.com/hammh0a/status/1756602046629794170) [\[Blogpost\]](https://hammoudhasan.medium.com/paper-explained-from-categories-to-classifier-name-only-continual-learning-by-exploring-the-web-ad0db41020bf) \[Talk\] \[Slides\]
 
 **Rapid Adaptation in Online Continual Learning: Are We Evaluating It Right?**, ICCV 2023 <br/>Hasan Abed Al Kader Hammoud\*, *Ameya Prabhu*\*, Ser-Nam Lim, Bernard Ghanem,
 Philip Torr, Adel Bibi<br/> [\[PDF\]](https://github.com/drimpossible/drimpossible.github.io/blob/41f547b991fc99d1f733df8ab8528aa552b74a1f/documents/EvalOCL.pdf) [\[Code\]](https://github.com/drimpossible/EvalOCL) [\[Talk\]](https://www.youtube.com/watch?v=H8Cyh-7xltg) \[Slides\]
@@ -69,7 +72,8 @@ Philip Torr, Adel Bibi<br/> [\[PDF\]](https://github.com/drimpossible/drimpossib
 ### <a name="bettermistakes" id="bettermistakes"> Making Better Mistakes
 
 **Inverse Scaling: When Bigger Isn't Better**, TMLR 2023 <br/> Ian R. McKenzie, Alexander Lyzhov, Michael Martin Pieler, Alicia Parrish, Aaron Mueller, *Ameya Prabhu*, Euan McLean, Xudong Shen, Joe Cavanagh, Andrew George Gritsevskiy, Derik Kauffman, Aaron T. Kirtland, Zhengping Zhou, Yuhui Zhang, Sicong Huang, Daniel Wurgaft, Max Weiss, Alexis Ross, Gabriel Recchia, Alisa Liu, Jiacheng Liu, Tom Tseng, Tomasz Korbak, Najoung Kim, Samuel R. Bowman, Ethan Perez <br/> [\[PDF\]](https://openreview.net/forum?id=DwgRm72GQF) [\[Code\]](https://github.com/inverse-scaling/prize)
-
+ [\[Twitter 🧵\]](https://twitter.com/EthanJPerez/status/1671222828518227968) [\[Blogpost\]](https://www.lesswrong.com/posts/eqxqgFxymP8hXDTt5/announcing-the-inverse-scaling-prize-usd250k-prize-pool)
+ 
 **No Cost Likelihood Manipulation at Test Time for Making Better Mistakes in Deep Networks**, ICLR 2021 <br/> Shyamgopal Karthik, *Ameya Prabhu*, Puneet K. Dokania, Vineet Gandhi <br/> [\[PDF\]](https://openreview.net/forum?id=193sEnKY1ij) [\[Code\]](https://github.com/sgk98/CRM-Better-Mistakes)
 
 ---
