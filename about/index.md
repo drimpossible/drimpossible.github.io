@@ -11,7 +11,7 @@ Table of Contents     [About Me](#biography)         [Updates](#updates)
 
 ## <a name="biography" id="biography"></a>About Me
 
-Hi! I’m Ameya, and since you're reading this: a-may-yeah (as in __a__ book, __may__ I?, __yeah__ sure!). "Ameya" is the sanskrit word "अमेय" approximately translating to "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". This github username was created when in high school, as a battle against the impossible dream of being "Dr. Ameya" (pun intended) and motivation for it. The username is *not* the snobbish "I'm Dr. Ameya" not "Mr. Ameya", I never imagined I would actually make it from my circumstances.
+Hi! I’m Ameya, and since you're reading this: a-may-yeah (as in __a__ book, __may__ I?, __yeah__ sure!). "Ameya" is the sanskrit word "अमेय" approximately translating to "Impossible". Just too full of energy as a baby, right? My parents went from "You're impossible" to "You're Ameya". This github username was created when in high school, as a battle against the impossible dream of being "Dr. Ameya" (pun intended) and motivation for it. The username is *not* the snobbish "I'm Dr. Ameya" not "Mr. Ameya", I never imagined I would actually make it.
 
 Everyone has a core sthick, here’s mine: I am on a lifelong quest to execute *dope* projects, a.k.a. **Ideas** **which** **pay** **rent** 💖! I do not theorize about the *hypothetical*, or getting conspicuously upset at anything  without doing anything substantial to help.
 
