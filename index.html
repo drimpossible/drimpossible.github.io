@@ -1,19 +1,58 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Redirecting to prabhu-ameya.github.io…</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex" />
+  <link rel="canonical" href="https://prabhu-ameya.github.io/" />
+  <meta http-equiv="refresh" content="0;url=https://prabhu-ameya.github.io/" />
 
+  <style>
+    :root { color-scheme: light dark; }
+    html, body { height: 100%; margin: 0; }
+    body {
+      display: grid;
+      place-items: center;
+      font: 16px system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, "Helvetica Neue", Arial, sans-serif;
+      background: canvas;
+      color: canvastext;
+    }
+    .card {
+      text-align: center;
+      padding: 2rem 2.5rem;
+      border-radius: 14px;
+      box-shadow: 0 10px 30px rgba(0,0,0,.12);
+    }
+    .spinner {
+      width: 32px; height: 32px;
+      border: 3px solid #ccc;
+      border-top-color: #06c;
+      border-radius: 50%;
+      animation: spin .8s linear infinite;
+      margin: 0 auto 1rem;
+    }
+    @keyframes spin { to { transform: rotate(1turn); } }
+    a { color: #06c; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+  <script>
+    (function () {
+      var target = "https://prabhu-ameya.github.io/";
+      try {
+        window.location.replace(target);
+      } catch (_) {
+        window.location.href = target;
+      }
+    })();
+  </script>
+</head>
+<body>
+  <div class="card" role="status" aria-live="polite">
+    <div class="spinner" aria-hidden="true"></div>
+    <p>Redirecting to <a href="https://prabhu-ameya.github.io/">prabhu-ameya.github.io</a>…</p>
+    <p>If you are not redirected instantly, use the link above.</p>
+  </div>
+</body>
+</html>
